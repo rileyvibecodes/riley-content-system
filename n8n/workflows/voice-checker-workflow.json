@@ -1,0 +1,96 @@
+{
+  "name": "Riley Content System - Voice Checker",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "check-voice",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [200, 300],
+      "webhookId": "riley-voice-checker"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "claude-sonnet-4-20250514"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "=You are Riley's voice consistency checker.\n\nCONTENT TO CHECK:\n{{ $json.content }}\n\nRILEY'S VOICE CHARACTERISTICS:\n- Direct, no-BS, mechanistic\n- Specific over general (\"$600\" not \"a lot of money\")\n- Uses concrete examples with actual names, numbers, percentages\n- Conversational but authoritative\n- Self-aware, occasionally self-deprecating\n- Not afraid to be contrarian\n- NEVER sounds like typical AI/LinkedIn content\n\nTHINGS RILEY NEVER SAYS:\n- \"Let's dive in\"\n- \"In today's fast-paced world\"\n- \"Without further ado\"\n- \"Game-changer\"\n- \"Unlock your potential\"\n- \"At the end of the day\"\n- Any corporate speak or empty buzzwords\n\nRILEY'S SWIPE FILE (Examples of his actual voice):\n- \"Your offer isn't converting because you're selling a mechanism nobody asked for. The transformation is what matters.\"\n- \"90% of the BIGGEST levers you can pull to increase ROAS are NOT in the ads manager.\"\n- \"Direct response is fundamentally a short-term game. If you can think long-term instead (AKA brand) you will crush.\"\n- \"Market awareness is way up in bizop. CPCs are 2-3x higher. You can't 'trick' the market anymore.\"\n\nCheck each piece of content and score:\n\n1. **Specificity Score** (1-10): Is it specific or generic? Does it use real numbers, examples, names?\n2. **Voice Match** (1-10): Does it sound like Riley? Would he actually post this?\n3. **Example Strength** (1-10): Are examples concrete and relatable?\n4. **Authenticity** (1-10): Does it avoid AI/LinkedIn speak? Does it feel real?\n\nFor any content scoring below 7 in any category:\n- Flag it for revision\n- Explain what's wrong\n- Provide specific edit suggestion with rewritten version\n\nOutput as JSON:\n{\n  \"overall_score\": 1-10,\n  \"scores\": {\n    \"specificity\": {\"score\": 1-10, \"notes\": \"...\"},\n    \"voice_match\": {\"score\": 1-10, \"notes\": \"...\"},\n    \"example_strength\": {\"score\": 1-10, \"notes\": \"...\"},\n    \"authenticity\": {\"score\": 1-10, \"notes\": \"...\"}\n  },\n  \"flagged_issues\": [\n    {\n      \"issue\": \"description\",\n      \"original\": \"original text\",\n      \"suggestion\": \"rewritten version\"\n    }\n  ],\n  \"verdict\": \"approved | needs_revision | reject\",\n  \"summary\": \"brief explanation\"\n}"
+            }
+          ]
+        },
+        "options": {
+          "maxTokensToSample": 3000,
+          "temperature": 0.5
+        }
+      },
+      "id": "voice-checker",
+      "name": "Voice Checker",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1.3,
+      "position": [450, 300],
+      "credentials": {
+        "anthropicApi": {
+          "id": "anthropic-credential",
+          "name": "Anthropic"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $input.first().json;\nlet response = input.text || input.content || input;\n\nlet result;\ntry {\n  if (typeof response === 'object') {\n    result = response;\n  } else {\n    const jsonMatch = response.match(/\\{[\\s\\S]*\\}/);\n    if (jsonMatch) {\n      result = JSON.parse(jsonMatch[0]);\n    } else {\n      result = { raw: response };\n    }\n  }\n} catch (e) {\n  result = { raw: response, error: e.message };\n}\n\nreturn [{\n  json: {\n    ...result,\n    checked_at: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "parse-result",
+      "name": "Parse Result",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ $json }}",
+        "options": {}
+      },
+      "id": "respond",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [850, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [{"node": "Voice Checker", "type": "main", "index": 0}]
+      ]
+    },
+    "Voice Checker": {
+      "main": [
+        [{"node": "Parse Result", "type": "main", "index": 0}]
+      ]
+    },
+    "Parse Result": {
+      "main": [
+        [{"node": "Respond", "type": "main", "index": 0}]
+      ]
+    }
+  },
+  "settings": {"executionOrder": "v1"},
+  "staticData": null,
+  "pinData": {},
+  "tags": [{"name": "content-system"}],
+  "triggerCount": 1,
+  "active": false,
+  "versionId": "1"
+}

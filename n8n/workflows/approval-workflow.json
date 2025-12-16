@@ -1,0 +1,465 @@
+{
+  "name": "Riley Content System - Approval & Scheduling",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "content-approval",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-approval",
+      "name": "Webhook: Approval",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1.1,
+      "position": [0, 200],
+      "webhookId": "content-approval"
+    },
+    {
+      "parameters": {
+        "content": "## Approval Workflow\n\nThis workflow handles content approval, scheduling, AND learning.\n\n**Trigger:** Webhook POST to /content-approval\n\n**Payload:**\n```json\n{\n  \"week_date\": \"2024-01-15\",\n  \"status\": \"approved\" | \"needs_edits\",\n  \"topic\": \"Field Guide Topic\",\n  \"field_guide\": \"Full field guide text\",\n  \"edits\": [optional array of edit requests]\n}\n```\n\n**Actions:**\n- If approved: Schedule to Hypefury → Trigger Self-Learning\n- If needs edits: Send back for revision\n\n**Self-Learning:** Approved content is stored in Supabase with embeddings for future retrieval.",
+        "height": 300,
+        "width": 400
+      },
+      "id": "sticky-approval",
+      "name": "Workflow Info",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [-200, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "approved-check",
+              "leftValue": "={{ $json.body.status }}",
+              "rightValue": "approved",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "check-status",
+      "name": "Check Approval Status",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [200, 200]
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "filePath": "={{ '/files/outputs/weekly/' + $json.body.week_date + '/calendar.md' }}",
+        "options": {}
+      },
+      "id": "read-calendar",
+      "name": "Read Calendar",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [400, 100]
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "model": "claude-sonnet-4-20250514",
+        "messages": {
+          "values": [
+            {
+              "role": "system",
+              "content": "You are a content scheduling assistant. Parse the content calendar and extract tweets and posts for scheduling.\n\nOutput format for each item:\n{\n  \"platform\": \"twitter\" | \"linkedin\",\n  \"content\": \"full text\",\n  \"scheduled_time\": \"ISO datetime\",\n  \"type\": \"tweet\" | \"thread\" | \"linkedin_post\"\n}"
+            },
+            {
+              "role": "user",
+              "content": "=CALENDAR:\n{{ $json.data }}\n\nExtract all content items with their scheduled times.\nOutput as JSON array sorted by scheduled_time."
+            }
+          ]
+        },
+        "options": {
+          "maxTokens": 8192,
+          "temperature": 0.1
+        }
+      },
+      "id": "parse-schedule",
+      "name": "Parse Schedule",
+      "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+      "typeVersion": 1.2,
+      "position": [600, 100],
+      "credentials": {
+        "anthropicApi": {
+          "id": "anthropic-creds",
+          "name": "Anthropic API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse the scheduled content into individual items\nconst content = JSON.parse($input.first().json.message.content);\n\n// Return each item as a separate output\nreturn content.map(item => ({\n  json: item\n}));"
+      },
+      "id": "split-items",
+      "name": "Split Into Items",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [800, 100]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "platform-check",
+              "leftValue": "={{ $json.platform }}",
+              "rightValue": "twitter",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "route-platform",
+      "name": "Route by Platform",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1000, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.hypefury.com/api/v1/posts",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $json.content }}"
+            },
+            {
+              "name": "scheduled_time",
+              "value": "={{ $json.scheduled_time }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "schedule-hypefury",
+      "name": "Schedule to Hypefury",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1200, 0],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "hypefury-creds",
+          "name": "Hypefury API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "content": "## LinkedIn Scheduling Note\n\nLinkedIn API requires OAuth and has posting limits.\n\nOptions:\n1. Use LinkedIn API directly (complex setup)\n2. Use Buffer or Hootsuite API\n3. Manual scheduling with notification\n\nCurrent: Manual notification with content to copy.",
+        "height": 200,
+        "width": 350
+      },
+      "id": "linkedin-note",
+      "name": "LinkedIn Note",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [1100, 250]
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "linkedin-queue",
+              "name": "linkedin_posts",
+              "value": "={{ $json }}",
+              "type": "object"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "queue-linkedin",
+      "name": "Queue LinkedIn Posts",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.3,
+      "position": [1200, 200]
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combineBy": "combineAll",
+        "options": {}
+      },
+      "id": "merge-results",
+      "name": "Merge Results",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2.1,
+      "position": [1400, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook: Approval').item.json.body.slack_webhook || 'https://hooks.slack.com/services/YOUR/WEBHOOK/URL' }}",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "=✅ Content scheduled successfully!\n\n📅 Week of: {{ $('Webhook: Approval').item.json.body.week_date }}\n📱 Twitter posts: Scheduled in Hypefury\n💼 LinkedIn posts: Ready in queue (manual post required)\n\n🔗 Check Hypefury dashboard to confirm."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-success",
+      "name": "Notify: Scheduled",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1600, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.WEBHOOK_URL || 'http://localhost:5678' }}/webhook/learn-content",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ {\n  \"week_date\": $('Webhook: Approval').item.json.body.week_date,\n  \"topic\": $('Webhook: Approval').item.json.body.topic || 'Unknown Topic',\n  \"content_items\": JSON.parse($('Split Into Items').first().json.message?.content || '[]'),\n  \"field_guide\": $('Webhook: Approval').item.json.body.field_guide || ''\n} }}",
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "id": "trigger-learning",
+      "name": "Trigger Learning",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1700, 100]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ {\n  \"status\": \"success\",\n  \"message\": \"Content scheduled and learned successfully\",\n  \"week_date\": $('Webhook: Approval').item.json.body.week_date,\n  \"items_scheduled\": $json.length,\n  \"learning_triggered\": true\n} }}",
+        "options": {}
+      },
+      "id": "respond-success",
+      "name": "Respond: Success",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1900, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $('Webhook: Approval').item.json.body.slack_webhook || 'https://hooks.slack.com/services/YOUR/WEBHOOK/URL' }}",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "=📝 Content needs edits\n\n📅 Week of: {{ $json.body.week_date }}\n\nRequested edits:\n{{ $json.body.edits ? $json.body.edits.join('\\n• ') : 'No specific edits provided' }}\n\nPlease update the content and re-submit for approval."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-edits",
+      "name": "Notify: Needs Edits",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [400, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ {\n  \"status\": \"needs_edits\",\n  \"message\": \"Content sent back for revision\",\n  \"week_date\": $json.body.week_date,\n  \"edits\": $json.body.edits || []\n} }}",
+        "options": {}
+      },
+      "id": "respond-edits",
+      "name": "Respond: Needs Edits",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [600, 300]
+    }
+  ],
+  "connections": {
+    "Webhook: Approval": {
+      "main": [
+        [
+          {
+            "node": "Check Approval Status",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check Approval Status": {
+      "main": [
+        [
+          {
+            "node": "Read Calendar",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Notify: Needs Edits",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Calendar": {
+      "main": [
+        [
+          {
+            "node": "Parse Schedule",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Schedule": {
+      "main": [
+        [
+          {
+            "node": "Split Into Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Into Items": {
+      "main": [
+        [
+          {
+            "node": "Route by Platform",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Route by Platform": {
+      "main": [
+        [
+          {
+            "node": "Schedule to Hypefury",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Queue LinkedIn Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule to Hypefury": {
+      "main": [
+        [
+          {
+            "node": "Merge Results",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Queue LinkedIn Posts": {
+      "main": [
+        [
+          {
+            "node": "Merge Results",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge Results": {
+      "main": [
+        [
+          {
+            "node": "Notify: Scheduled",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Notify: Scheduled": {
+      "main": [
+        [
+          {
+            "node": "Trigger Learning",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Trigger Learning": {
+      "main": [
+        [
+          {
+            "node": "Respond: Success",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Notify: Needs Edits": {
+      "main": [
+        [
+          {
+            "node": "Respond: Needs Edits",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "id": "approval",
+      "name": "Approval"
+    }
+  ],
+  "pinData": {},
+  "versionId": "1.0.0"
+}
+

@@ -1,0 +1,110 @@
+{
+  "self_learning": {
+    "enabled": true,
+    "description": "Configuration for the self-learning content system powered by Supabase"
+  },
+
+  "content_retrieval": {
+    "recent_content": {
+      "days_lookback": 30,
+      "max_items": 50,
+      "description": "How far back to look for recent content to avoid repetition"
+    },
+    "similar_content": {
+      "similarity_threshold": 0.7,
+      "max_matches": 10,
+      "description": "Semantic similarity settings for finding related past content"
+    },
+    "avoid_repetition": {
+      "enabled": true,
+      "min_days_between_similar": 14,
+      "similarity_warning_threshold": 0.85,
+      "description": "Prevent generating content too similar to recent posts"
+    }
+  },
+
+  "voice_evolution": {
+    "snapshot_frequency": "weekly",
+    "history_to_keep": 12,
+    "track_metrics": [
+      "tone_markers",
+      "vocabulary_patterns", 
+      "sentence_patterns",
+      "content_pillar_distribution",
+      "voice_score"
+    ],
+    "description": "How often to capture voice evolution snapshots and what to track"
+  },
+
+  "embedding": {
+    "model": "text-embedding-3-small",
+    "dimensions": 1536,
+    "provider": "openai",
+    "description": "OpenAI embedding model for semantic search. 1536 dims matches Supabase schema."
+  },
+
+  "learning_triggers": {
+    "on_content_approved": true,
+    "on_content_posted": false,
+    "on_manual_import": true,
+    "description": "When to trigger learning - approved content is added to the database"
+  },
+
+  "future_layers": {
+    "layer_2_multi_source": {
+      "enabled": false,
+      "sources": [
+        {
+          "type": "youtube_transcript",
+          "description": "Transcripts from your YouTube videos"
+        },
+        {
+          "type": "webinar_recording",
+          "description": "Transcripts from hosted webinars"
+        },
+        {
+          "type": "call_notes",
+          "description": "Notes from client/prospect calls"
+        }
+      ],
+      "description": "Layer 2: Multi-source data ingestion (not yet implemented)"
+    },
+    "layer_3_metrics": {
+      "enabled": false,
+      "platforms": [
+        {
+          "name": "twitter",
+          "metrics": ["impressions", "engagements", "likes", "retweets", "replies"]
+        },
+        {
+          "name": "linkedin", 
+          "metrics": ["impressions", "engagements", "likes", "comments", "shares"]
+        }
+      ],
+      "refresh_frequency": "daily",
+      "description": "Layer 3: Organic metrics integration (not yet implemented)"
+    }
+  },
+
+  "database": {
+    "provider": "supabase",
+    "tables": {
+      "posted_content": "Stores all approved/posted content with embeddings",
+      "content_performance": "Performance metrics for posted content (Layer 3)",
+      "voice_evolution": "Weekly snapshots of voice patterns",
+      "field_guides": "Complete field guides with embeddings",
+      "learning_patterns": "Successful content patterns for retrieval"
+    }
+  },
+
+  "prompts": {
+    "include_learning_context": true,
+    "context_sections": [
+      "recent_topics",
+      "voice_evolution",
+      "avoid_similar_content"
+    ],
+    "description": "What learning context to inject into AI prompts"
+  }
+}
+

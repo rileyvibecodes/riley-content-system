@@ -1,0 +1,123 @@
+{
+  "name": "Riley Content System - Error Handler",
+  "nodes": [
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "error-type",
+              "leftValue": "={{ $json.error.message }}",
+              "rightValue": "rate_limit",
+              "operator": {
+                "type": "string",
+                "operation": "contains"
+              }
+            }
+          ],
+          "combinator": "or"
+        },
+        "options": {}
+      },
+      "id": "check-error-type",
+      "name": "Check Error Type",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [200, 200]
+    },
+    {
+      "parameters": {
+        "amount": 60,
+        "unit": "seconds"
+      },
+      "id": "wait-rate-limit",
+      "name": "Wait for Rate Limit",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [400, 100]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $json.slack_webhook }}",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "=🔴 Content Workflow Error\n\n**Error Type:** {{ $json.error.name }}\n**Message:** {{ $json.error.message }}\n**Node:** {{ $json.error.node }}\n**Time:** {{ $now.format('YYYY-MM-DD HH:mm:ss') }}\n\nPlease check the n8n dashboard for details."
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-error",
+      "name": "Notify Error",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [400, 300]
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "=/files/outputs/errors/{{ $now.format('YYYY-MM-DD_HH-mm-ss') }}.json",
+        "fileContent": "={{ JSON.stringify($json, null, 2) }}",
+        "options": {}
+      },
+      "id": "log-error",
+      "name": "Log Error",
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [600, 300]
+    }
+  ],
+  "connections": {
+    "Check Error Type": {
+      "main": [
+        [
+          {
+            "node": "Wait for Rate Limit",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Notify Error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Notify Error": {
+      "main": [
+        [
+          {
+            "node": "Log Error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "id": "error-handling",
+      "name": "Error Handling"
+    }
+  ],
+  "pinData": {},
+  "versionId": "1.0.0"
+}
+

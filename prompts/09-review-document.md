@@ -1,0 +1,318 @@
+# Node 9: Review Document Generator
+
+## Purpose
+Create a comprehensive review document for final approval before content is scheduled, including all content, alternatives, and action items.
+
+## System Prompt
+
+```
+You are creating Riley's weekly review document for final approval.
+
+DOCUMENT PURPOSE:
+- Complete overview of all content for the week
+- Easy scanning and quick approval
+- Alternative options if swaps are needed
+- Action items checklist
+- Next week planning
+
+FORMAT REQUIREMENTS:
+- Clean markdown formatting
+- Full content text (not summaries)
+- Clear section headers
+- Checkboxes for action items
+- Organized by priority
+```
+
+## Input Template
+
+```
+FIELD GUIDE:
+{{field_guide_content}}
+
+CONTENT CALENDAR:
+{{calendar_markdown}}
+
+ALL GENERATED CONTENT:
+{{all_content_json}}
+
+DEEP ANALYSIS:
+{{deep_analysis_json}}
+
+VOICE CHECK RESULTS (if available):
+{{voice_check_json}}
+```
+
+## Output Format
+
+```markdown
+# Week of [Date] - Content Review Document
+
+**Generated:** [Timestamp]
+**Status:** Pending Review
+
+---
+
+## Executive Summary
+
+**This Week's Topic:** [Topic]
+**Core Thesis:** [One sentence]
+**Field Guide Word Count:** [X words]
+
+### Content Output
+| Type | Count | Status |
+|------|-------|--------|
+| Field Guide | 1 | ✅ Complete |
+| Individual Tweets | 21 | ✅ Selected |
+| Twitter Thread | 1 | ✅ Ready |
+| LinkedIn Posts | 2 | ✅ Ready |
+
+### Predicted Performance
+- **Highest Engagement Tweet:** [Preview]
+- **Thread Potential:** [High/Medium/Low]
+- **LinkedIn Reach Estimate:** [Based on historical]
+
+---
+
+## Field Guide
+
+### Title
+[Field Guide Title]
+
+### Full Text
+[Complete Field Guide content]
+
+### Key Quotables
+1. "[Quote 1]"
+2. "[Quote 2]"
+3. "[Quote 3]"
+
+---
+
+## Weekly Content Calendar
+
+### Monday - [Date]
+
+#### 9:00 AM - THREAD 🧵
+**Category:** [Category]
+
+**Full Thread:**
+```
+1/X: [Hook]
+
+2/X: [Tweet 2]
+
+3/X: [Tweet 3]
+
+[Continue for all tweets]
+
+X/X: [CTA]
+```
+
+**Notes:** [Any specific notes about this thread]
+
+---
+
+#### 12:00 PM
+**Category:** [Category]
+
+```
+[Full tweet text]
+```
+
+**Why it works:** [Brief note]
+
+---
+
+#### 3:00 PM
+**Category:** [Category]
+
+```
+[Full tweet text]
+```
+
+**Why it works:** [Brief note]
+
+---
+
+### Tuesday - [Date]
+
+[Same format for all tweets]
+
+#### LinkedIn Post
+**Type:** [Type]
+
+```
+[Full LinkedIn post text]
+```
+
+---
+
+[Continue for Wednesday through Sunday]
+
+---
+
+## LinkedIn Posts (Full Text)
+
+### Post 1 - Tuesday
+**Type:** [Type]
+**Topic:** [Topic]
+
+```
+[Full post text]
+```
+
+---
+
+### Post 2 - Thursday
+**Type:** [Type]
+**Topic:** [Topic]
+
+```
+[Full post text]
+```
+
+---
+
+## Alternate Options
+
+### Unused High-Priority Tweets
+If you want to swap any tweets, these scored highly but weren't selected:
+
+1. **[Category]** (Score: 88)
+```
+[Tweet text]
+```
+*Why it's good:* [Reason]
+
+2. **[Category]** (Score: 86)
+```
+[Tweet text]
+```
+*Why it's good:* [Reason]
+
+[Continue for 5-10 alternates]
+
+---
+
+### Unused Thread Hooks
+Alternative thread options if you want to change Monday's thread:
+
+1. **[Hook type]**
+```
+[Hook text]
+```
+*Angle:* [What the thread would cover]
+
+2. **[Hook type]**
+```
+[Hook text]
+```
+*Angle:* [What the thread would cover]
+
+---
+
+## Voice Check Results
+
+### Overall Score: [X/10]
+
+| Criterion | Score | Notes |
+|-----------|-------|-------|
+| Specificity | X/10 | [Note] |
+| Voice Match | X/10 | [Note] |
+| Example Strength | X/10 | [Note] |
+| Authenticity | X/10 | [Note] |
+
+### Flagged Items
+[Any content that scored below 7 and needs review]
+
+### Suggested Edits
+[Specific edit recommendations]
+
+---
+
+## Next Week Planning
+
+### Spin-Off Opportunities
+Based on this week's content, these topics could be next week's Field Guide:
+
+1. **[Topic]**
+   - Urgency: High
+   - Angle: [Specific angle]
+   - Why now: [Reason]
+
+2. **[Topic]**
+   - Urgency: Medium
+   - Angle: [Specific angle]
+
+3. **[Topic]**
+   - Urgency: Low
+   - Angle: [Specific angle]
+
+### Content Gaps Identified
+- [Gap 1]
+- [Gap 2]
+
+### Audience Questions to Address
+- [Question 1]
+- [Question 2]
+
+---
+
+## Action Items
+
+### Pre-Publish
+- [ ] Review all tweets for voice consistency
+- [ ] Check thread flow and readability
+- [ ] Verify LinkedIn formatting
+- [ ] Approve or swap any content
+- [ ] Confirm posting times
+
+### Scheduling
+- [ ] Schedule Monday thread in Hypefury
+- [ ] Schedule all tweets for the week
+- [ ] Schedule LinkedIn posts
+- [ ] Set engagement reminders
+
+### Engagement
+- [ ] Block 30 mins after Monday thread for replies
+- [ ] Check LinkedIn comments Tuesday & Thursday
+- [ ] Engage with quote tweets
+
+### Post-Week
+- [ ] Review analytics
+- [ ] Note top performers
+- [ ] Identify learnings for next week
+
+---
+
+## Approval
+
+**Reviewed by:** ________________
+
+**Date:** ________________
+
+**Status:** 
+- [ ] Approved - Ready to schedule
+- [ ] Approved with edits - See notes
+- [ ] Needs revision - See feedback
+
+**Notes:**
+```
+[Space for reviewer notes]
+```
+
+---
+
+*Generated by Riley Content System v1.0*
+```
+
+## Quality Checklist
+
+Before generating review document:
+- [ ] All content is included (not summarized)
+- [ ] Alternates are provided
+- [ ] Voice check results are incorporated
+- [ ] Next week planning is actionable
+- [ ] Action items are specific
+- [ ] Document is scannable
+

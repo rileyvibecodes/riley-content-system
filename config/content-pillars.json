@@ -1,0 +1,222 @@
+{
+  "pillars": {
+    "offer_mechanics": {
+      "name": "Offer Mechanics",
+      "percentage": 25,
+      "priority": 1,
+      "description": "Technical insights about offer construction, pricing, positioning, and validation",
+      "topics": [
+        "Offer structure and components",
+        "Pricing strategies",
+        "Positioning and differentiation",
+        "Mechanism vs. outcome selling",
+        "Offer validation methodology",
+        "Guarantee structures",
+        "Ascension models",
+        "Productized services"
+      ],
+      "tweet_formats": [
+        "Your [offer component] isn't [problem] because [root cause]",
+        "Here's how to fix your [offer element]:",
+        "The difference between [X] and [Y] offers:",
+        "[Number] signs your offer needs work:"
+      ],
+      "example_topics": [
+        "Why mechanism beats outcome in sales",
+        "The Install-First model for agencies",
+        "Productizing your first 60 days",
+        "Guarantee structures that de-risk"
+      ]
+    },
+    
+    "harsh_marketing_truths": {
+      "name": "Harsh Marketing Truths",
+      "percentage": 25,
+      "priority": 2,
+      "description": "Direct, uncomfortable observations about marketing and business that challenge conventional wisdom",
+      "topics": [
+        "Why common tactics fail",
+        "Market skepticism and awareness",
+        "The death of certain strategies",
+        "Uncomfortable patterns in the industry",
+        "Calling out BS approaches",
+        "What 'gurus' won't tell you"
+      ],
+      "tweet_formats": [
+        "[Common belief] is killing your [metric]",
+        "Everyone's doing [X]. Here's why it's not working:",
+        "The uncomfortable truth about [topic]:",
+        "[Popular strategy] stopped working in [year]. Here's why:"
+      ],
+      "example_topics": [
+        "Why case studies don't close deals",
+        "The social proof paradox",
+        "Market awareness is at all-time highs",
+        "Why your competitors are lying about results"
+      ]
+    },
+    
+    "direct_response_insights": {
+      "name": "Direct Response Insights",
+      "percentage": 20,
+      "priority": 3,
+      "description": "Tactical DR insights about funnels, copy, conversion, and paid acquisition",
+      "topics": [
+        "Funnel structures and optimization",
+        "Copy frameworks and techniques",
+        "Conversion rate optimization",
+        "Paid traffic strategies",
+        "VSL and webinar tactics",
+        "Email marketing",
+        "Retargeting and LTV"
+      ],
+      "tweet_formats": [
+        "Here's why your [funnel element] isn't converting:",
+        "[Number] copy mistakes killing your [metric]:",
+        "The [framework] for [outcome]:",
+        "I analyzed [number] [thing]. Here's what works:"
+      ],
+      "example_topics": [
+        "Why retainer-first is dead",
+        "The VSL structure that actually converts",
+        "Copy patterns that create trust",
+        "LTV optimization for info products"
+      ]
+    },
+    
+    "ai_automation": {
+      "name": "AI & Automation",
+      "percentage": 10,
+      "priority": 4,
+      "description": "AI tools, automation strategies, and systems thinking for content and business",
+      "topics": [
+        "AI content workflows",
+        "Automation tools and setups",
+        "Systems thinking",
+        "Scaling with technology",
+        "AI-assisted offer creation",
+        "Content repurposing systems"
+      ],
+      "tweet_formats": [
+        "Here's how I use [AI tool] for [outcome]:",
+        "[Number] ways AI is changing [industry]:",
+        "The automation stack I use for [process]:",
+        "Stop doing [manual task]. Use [solution] instead."
+      ],
+      "example_topics": [
+        "Content flywheel automation",
+        "AI-assisted offer audits",
+        "Workflow automation for creators",
+        "The future of AI in marketing"
+      ]
+    },
+    
+    "personal_observations": {
+      "name": "Personal Observations",
+      "percentage": 15,
+      "priority": 5,
+      "description": "Personal takes, experiences, lessons learned, and behind-the-scenes insights",
+      "topics": [
+        "Lessons from client work",
+        "Personal journey and growth",
+        "Behind-the-scenes of business",
+        "Mistakes and learnings",
+        "Industry observations",
+        "Reflections on success and failure"
+      ],
+      "tweet_formats": [
+        "I made [mistake]. Here's what I learned:",
+        "[Number] things I wish I knew about [topic]:",
+        "Something I noticed after [experience]:",
+        "The real reason I [decision]:"
+      ],
+      "example_topics": [
+        "Why I stopped doing rev share",
+        "Lessons from auditing 50 offers",
+        "The hardest part of building WBYO",
+        "What growth operating taught me"
+      ]
+    },
+    
+    "meta_marketing": {
+      "name": "Meta-Marketing",
+      "percentage": 5,
+      "priority": 6,
+      "description": "Commentary on the marketing industry itself, trends, and the business of marketing",
+      "topics": [
+        "Industry trends and shifts",
+        "Commentary on marketing culture",
+        "The state of info products",
+        "Observations about 'Money Twitter'",
+        "The future of the industry"
+      ],
+      "tweet_formats": [
+        "The [industry] is changing. Here's how:",
+        "Why [trend] is just getting started:",
+        "Everyone's talking about [thing]. Here's the reality:",
+        "The pattern I'm seeing in [space]:"
+      ],
+      "example_topics": [
+        "The info product bubble",
+        "Why everyone's launching communities",
+        "The death of the guru model",
+        "Where marketing is headed"
+      ]
+    }
+  },
+  
+  "distribution_targets": {
+    "daily": {
+      "tweets_per_day": 3,
+      "pillar_variety": "At least 2 different pillars per day",
+      "category_variety": "No more than 2 from same category"
+    },
+    "weekly": {
+      "total_tweets": 21,
+      "threads": 1,
+      "linkedin_posts": 2,
+      "target_distribution": {
+        "offer_mechanics": "5-6 tweets",
+        "harsh_marketing_truths": "5-6 tweets",
+        "direct_response_insights": "4-5 tweets",
+        "ai_automation": "2-3 tweets",
+        "personal_observations": "3-4 tweets",
+        "meta_marketing": "1-2 tweets"
+      }
+    }
+  },
+  
+  "category_definitions": {
+    "harsh_truths": {
+      "description": "Direct, uncomfortable observations",
+      "typical_pillars": ["harsh_marketing_truths", "offer_mechanics"],
+      "format": "Your [X] isn't [Y] because [Z]"
+    },
+    "offer_mechanics": {
+      "description": "Technical insights about offers",
+      "typical_pillars": ["offer_mechanics", "direct_response_insights"],
+      "format": "Tactical breakdown or framework"
+    },
+    "marketing_breakdowns": {
+      "description": "Analyzing specific tactics, ads, funnels",
+      "typical_pillars": ["direct_response_insights", "offer_mechanics"],
+      "format": "Here's why this worked/didn't work"
+    },
+    "counterintuitive": {
+      "description": "Challenge conventional wisdom",
+      "typical_pillars": ["harsh_marketing_truths", "personal_observations"],
+      "format": "Everyone says X, but actually Y"
+    },
+    "actionable_tips": {
+      "description": "Specific, tactical advice",
+      "typical_pillars": ["offer_mechanics", "direct_response_insights"],
+      "format": "Do this, not that"
+    },
+    "one_liners": {
+      "description": "Punchy, quotable standalone",
+      "typical_pillars": ["any"],
+      "format": "Short, memorable insight"
+    }
+  }
+}
+

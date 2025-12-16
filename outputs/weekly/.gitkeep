@@ -1,0 +1,12 @@
+# Weekly content outputs
+# Each week creates a dated folder: YYYY-MM-DD/
+# 
+# Contents:
+# - field-guide.md
+# - parsed-content.json
+# - tweets.json
+# - threads.json
+# - linkedin.json
+# - calendar.md
+# - review-document.md
+

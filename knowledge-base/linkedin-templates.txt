@@ -1,0 +1,167 @@
+[
+  {
+    "day": 1,
+    "title": "Announcing your commitment to the 30-Day Content Challenge",
+    "template": "I’ve just started the Founder OS 30-day content challenge with @matt_gray_.\nIf you’re a [insert avatar] that is interested in [your niche], make sure you give me a follow, because in the days to come, I’ll be sharing a ton of valuable insight from my experience as a [your background].\nAnd if there’s any particular topics you’d like to hear me talk about, let me know in the comments below!\n[Include relevant CTA]"
+  },
+  {
+    "day": 2,
+    "title": "“Favorites” Lists",
+    "template": "[#] inspiring [documentaries/books/podcasts/bogs] that will change your life:\n1. Documentary #1\n2. Documentary #2\n3. Documentary #3\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 3,
+    "title": "Quick tip",
+    "template": "90% of [goal] is [often overlooked component].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 4,
+    "title": "Challenge reflection",
+    "template": "I’m in the first week of my Founder OS 30-day content challenge with @matt_gray_.\nHere’s are some of the coolest people I’ve connected with along the way:\n● Person #1\n● Person #2\n● Person #3\n● Person #4\n● Person #5\nGo check them out and give them a follow!\n[Include relevant CTA]"
+  },
+  {
+    "day": 5,
+    "title": "Expert advice",
+    "template": "These [X] rules will change your life instantly…\n1. Rule #1\n2. Rule #2\n3. Rule #3\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 6,
+    "title": "How to build a life you love",
+    "template": "Life’s too short to do things you hate.\nHere’s how I found my calling and [list an achievement]:\n● Explain Ikigai\n● Explain Ikigai\n● Explain Ikigai\n● Explain Ikigai\n● How to monetize your Ikigai\n● How to monetize your Ikigai\n● How to monetize your Ikigai\n● How to monetize your Ikigai\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 7,
+    "title": "Thought-provoking statement",
+    "template": "[Common trait] is the silent killer of [goal].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 8,
+    "title": "Life-changing learnings",
+    "template": "[#] [philosophies, beliefs, psychological principles,etc] that can change your life:\n● Point #1\n● Point #2\n● Point #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 9,
+    "title": "How to achieve your goals",
+    "template": "If you want [goal] in life, master [X].\n● Benefit #1\n● Benefit #2\n● Benefit #3\nAll depend on [characteristics of what you’re teaching].\nHere are [#] proven methods to [achieve X outcome]:\n● Point #1\n● Point #2\n● Point #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 10,
+    "title": "Thought-provoking statement",
+    "template": "Be the [avatar] you [big, altruistic desire].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 11,
+    "title": "Challenge reflection",
+    "template": "Just finished my tenth week of the Founder OS 90-day content challenge with @matt_gray_.\n[Insert a win you’ve had recently]\nWhat’s a win you’ve had recently?\n[Include relevant CTA]"
+  },
+  {
+    "day": 12,
+    "title": "Interesting concept",
+    "template": "I recently discovered this ancient [country or background] concept to [positive benefit].\nThis will blow your mind…\n1. Thought #1\n2. Thought #2\n3. Thought #3\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 13,
+    "title": "Quotes",
+    "template": "[Person of influence] once said:\n“[quote]”\nHere are [#] more insight on [topic] from the [position person holds/held]:\n1. Quote #1 + brief thought\n2. Quote #2 + brief thought\n3. Quote #3 + brief thought\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 14,
+    "title": "How to avoid X problem",
+    "template": "How to avoid [common issue in your industry]\n[Tease solution]:\n● Explain solution\n● Followup point\n● Followup point\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 15,
+    "title": "Travel lesson",
+    "template": "I recently visited [X location].\nIt was an awesome spot and it taught me some valuable lessons about [your niche].\nHere were my biggest takeaways:\n● Point #1\n● Point #2\n● Point #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 16,
+    "title": "Things people get wrong",
+    "template": "[#] life lessons people learn too late in life:\n1. Lesson #1\n2. Lesson #2\n3. Lesson #3\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 17,
+    "title": "Controversial opinion",
+    "template": "Unpopular opinion: I think it’s strange that people [X].\nBecause [Reason #1].\n[Reason #2].\n[Challenge].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 18,
+    "title": "List",
+    "template": "The [#] best [resources related to your niche] you can use for [goal] (these will be a massive help):\n● Resource #1\n● Resource #2\n● Resource #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 19,
+    "title": "Thought-provoking statement",
+    "template": "[Typically a “positive” trait”] is your biggest enemy.\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 20,
+    "title": "Here’s how to achieve X",
+    "template": "[Area you specialize in] is [major benefit].\nBut 99% of people don’t know where to start.\nHere’s my step-by-step process for [the subject of this post]:\n● Step #1\n● Step #2\n● Step #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 21,
+    "title": "Controversial opinion",
+    "template": "You don’t [common complaint], you [their actual problem].\nHere’s how I [overcome problem] while [listing the things you do that seem to be in odds of the solution]:\n● Solution #1\n● Solution #2\n● Solution #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 22,
+    "title": "Personal routine",
+    "template": "I do [habit] every [time frame].\nIt’s been the secret to my [components of success]:\n● Area #1\n● Area #2\n● Area #3\n● …\nHighly recommend.\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 23,
+    "title": "Expert insight",
+    "template": "Everyone wants to [achieve X goal].\nBut 95% of [avatar] fail.\nHere are [#] strategies from the 5% that don’t:\n● Strategy #1\n● Strategy #2\n● Strategy #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 24,
+    "title": "Personal reflection",
+    "template": "When I was [age], I [mention struggles or challenges].\nToday, I [positive thing] than I ever have in my entire life.\nMy [philosophy,actions, strategies] for [goal] (that anyone can apply):\n● Point #1\n● Point #2\n● Point #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 25,
+    "title": "Thought-provoking statement",
+    "template": "Your biggest enemy is [often overlooked challenge].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 26,
+    "title": "How to achieve X",
+    "template": "I [achievement] in [time frame].\nBut [achieving goal] took [X effort, failure, etc].\nHere are [#] tips for [achieving goal] in 2 minutes:\n● Tip #1\n● Tip #2\n● Tip #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 27,
+    "title": "My business routine/growth strategy",
+    "template": "My [strategy] for [year]:\n● Strategy #1\n● Strategy #2\n● Strategy #3\n● …\n[Statement about your strategy and overarching goal].\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 28,
+    "title": "How to enjoy life more",
+    "template": "You’re [common complaint] because [unexpected solution].\n[#] of [thing they need] ([to avoid common complaint]):\n● Solution #1\n● Solution #2\n● Solution #3\n● …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 29,
+    "title": "Expert advice",
+    "template": "[Channel, action, perspective, location] roasts [alternative].\nBut [alternative] has helped me [achievement].\nHere’s how to [leverage alternative]:\n● Tip #1 (individual post)\n● Tip #2 (individual post)\n● Tip #3 (individual post)\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": 30,
+    "title": "Reflection",
+    "template": "Today is the final day of the Founder OS 30-day content challenge with @matt_gray_.\nWhat a ride it’s been.\nHere are some of my biggest takeaways from the past 90 days:\n● Takeaway #1\n● Takeaway #2\n● Takeaway #3\n● …\nI’ve learned a lot, but I’m not done yet.\nCan’t wait to see what I manage to accomplish after another 90 days of posting.\nWho wants to join me for the next round?\n[Include relevant CTA]"
+  },
+  {
+    "day": "Bonus",
+    "title": "Educational list",
+    "template": "These are the [#] best books for [avatar/niche]:\n1. [Book 1] - [Insight or lesson from the book]\n2. [Book 2] - [Insight or lesson from the book]\n3. [Book 3] - [Insight or lesson from the book]\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": "Bonus",
+    "title": "How to achieve X (Bonus)",
+    "template": "[#] secrets to become [goal]:\nSecret #1\nSecret #2\nSecret #3\n…\n…\n[Additional thoughts/encouragement and relevant CTA]"
+  },
+  {
+    "day": "Bonus",
+    "title": "Thought-provoking insight (Bonus)",
+    "template": "I just learned about this crazy [thought/perspective/paradox/bias] that’s [negative implication].\n[Name of concept you’re discussing]\n1. Thought #1\n2. Thought #2\n3. Thought #3\n4. …\n[Additional thoughts/encouragement and relevant CTA]"
+  }
+]

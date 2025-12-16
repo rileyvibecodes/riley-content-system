@@ -1,0 +1,181 @@
+{
+  "timezone": "America/New_York",
+  
+  "workflow_schedule": {
+    "content_generation": {
+      "day": "Sunday",
+      "time": "18:00",
+      "description": "Generate next week's content"
+    },
+    "review_deadline": {
+      "day": "Sunday",
+      "time": "22:00",
+      "description": "Review and approve content"
+    },
+    "scheduling_complete": {
+      "day": "Sunday",
+      "time": "23:00",
+      "description": "All content scheduled in Hypefury"
+    }
+  },
+  
+  "twitter": {
+    "posts_per_day": 3,
+    "posting_times": [
+      {
+        "time": "09:00",
+        "label": "Morning",
+        "best_for": ["threads", "big_ideas", "harsh_truths", "provocative_takes"],
+        "avoid": ["one_liners", "quick_tips"]
+      },
+      {
+        "time": "12:00",
+        "label": "Midday",
+        "best_for": ["marketing_insights", "breakdowns", "observations"],
+        "avoid": ["heavy_content", "complex_ideas"]
+      },
+      {
+        "time": "15:00",
+        "label": "Afternoon",
+        "best_for": ["actionable_tips", "one_liners", "tactical_advice"],
+        "avoid": ["long_form", "complex_ideas"]
+      }
+    ],
+    "thread_schedule": {
+      "day": "Monday",
+      "time": "09:00",
+      "engagement_window": "2 hours after posting",
+      "quote_tweet_time": "14:00"
+    },
+    "engagement_rules": {
+      "reply_within_minutes": 30,
+      "first_hour_priority": true,
+      "quote_tweet_responses": true
+    }
+  },
+  
+  "linkedin": {
+    "posts_per_week": 2,
+    "posting_days": [
+      {
+        "day": "Tuesday",
+        "time": "08:00",
+        "post_type": "deep_dive",
+        "description": "Primary LinkedIn post"
+      },
+      {
+        "day": "Thursday",
+        "time": "12:00",
+        "post_type": "case_study",
+        "description": "Secondary LinkedIn post"
+      }
+    ],
+    "optional_posts": [
+      {
+        "day": "Saturday",
+        "time": "10:00",
+        "post_type": "framework",
+        "description": "Optional weekend post for extra reach"
+      }
+    ],
+    "engagement_rules": {
+      "respond_within_hours": 4,
+      "dm_high_quality_commenters": true,
+      "cross_post_best_content": false
+    }
+  },
+  
+  "content_calendar_template": {
+    "monday": {
+      "twitter": [
+        {"time": "09:00", "type": "thread", "priority": "highest"},
+        {"time": "12:00", "type": "tweet", "priority": "high"},
+        {"time": "15:00", "type": "tweet", "priority": "medium"}
+      ],
+      "linkedin": []
+    },
+    "tuesday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "high"},
+        {"time": "12:00", "type": "tweet", "priority": "high"},
+        {"time": "15:00", "type": "tweet", "priority": "medium"}
+      ],
+      "linkedin": [
+        {"time": "08:00", "type": "deep_dive", "priority": "high"}
+      ]
+    },
+    "wednesday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "high"},
+        {"time": "12:00", "type": "tweet", "priority": "high"},
+        {"time": "15:00", "type": "tweet", "priority": "medium"}
+      ],
+      "linkedin": []
+    },
+    "thursday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "high"},
+        {"time": "12:00", "type": "tweet", "priority": "high"},
+        {"time": "15:00", "type": "tweet", "priority": "medium"}
+      ],
+      "linkedin": [
+        {"time": "12:00", "type": "case_study", "priority": "high"}
+      ]
+    },
+    "friday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "high"},
+        {"time": "12:00", "type": "tweet", "priority": "high"},
+        {"time": "15:00", "type": "tweet", "priority": "medium"}
+      ],
+      "linkedin": []
+    },
+    "saturday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "medium"},
+        {"time": "12:00", "type": "tweet", "priority": "medium"},
+        {"time": "15:00", "type": "tweet", "priority": "low"}
+      ],
+      "linkedin": []
+    },
+    "sunday": {
+      "twitter": [
+        {"time": "09:00", "type": "tweet", "priority": "medium"},
+        {"time": "12:00", "type": "tweet", "priority": "medium"},
+        {"time": "15:00", "type": "tweet", "priority": "low"}
+      ],
+      "linkedin": []
+    }
+  },
+  
+  "notifications": {
+    "content_ready": {
+      "trigger": "Content generation complete",
+      "channel": "slack",
+      "message": "Weekly content is ready for review"
+    },
+    "approval_reminder": {
+      "trigger": "Sunday 20:00 if not approved",
+      "channel": "slack",
+      "message": "Content needs approval before scheduling"
+    },
+    "scheduling_complete": {
+      "trigger": "All content scheduled",
+      "channel": "slack",
+      "message": "Content scheduled for the week"
+    },
+    "error": {
+      "trigger": "Any workflow error",
+      "channel": "slack",
+      "message": "Content workflow error - check n8n"
+    }
+  },
+  
+  "hypefury_integration": {
+    "enabled": true,
+    "queue_content": true,
+    "auto_schedule": false,
+    "require_approval": true
+  }
+}
+

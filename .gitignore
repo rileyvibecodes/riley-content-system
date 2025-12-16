@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+n8n/.env
+*.env.local
+
+# n8n data
+n8n_data/
+
+# Output (optional - uncomment to track)
+# output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp
+temp/
+tmp/

@@ -1,0 +1,103 @@
+{
+  "retry_policy": {
+    "max_retries": 3,
+    "initial_delay_seconds": 5,
+    "backoff_multiplier": 2,
+    "max_delay_seconds": 60
+  },
+  
+  "error_types": {
+    "rate_limit": {
+      "action": "retry_with_delay",
+      "delay_seconds": 60,
+      "max_retries": 5,
+      "notify": false
+    },
+    "api_error": {
+      "action": "retry",
+      "max_retries": 3,
+      "notify": true
+    },
+    "authentication": {
+      "action": "stop_and_notify",
+      "notify": true,
+      "message": "Authentication failed. Check API credentials."
+    },
+    "file_not_found": {
+      "action": "stop_and_notify",
+      "notify": true,
+      "message": "Required file not found. Check file paths."
+    },
+    "json_parse": {
+      "action": "retry",
+      "max_retries": 2,
+      "notify": true,
+      "message": "AI output was not valid JSON. Retrying with stricter prompt."
+    },
+    "timeout": {
+      "action": "retry",
+      "max_retries": 2,
+      "notify": true
+    },
+    "unknown": {
+      "action": "stop_and_notify",
+      "notify": true
+    }
+  },
+  
+  "notifications": {
+    "on_error": {
+      "channel": "slack",
+      "include_details": true,
+      "include_stack_trace": false
+    },
+    "on_retry": {
+      "enabled": false,
+      "channel": "slack"
+    },
+    "on_recovery": {
+      "enabled": true,
+      "channel": "slack",
+      "message": "Workflow recovered after retry"
+    }
+  },
+  
+  "logging": {
+    "enabled": true,
+    "directory": "outputs/errors",
+    "format": "json",
+    "include": [
+      "timestamp",
+      "error_type",
+      "error_message",
+      "node_name",
+      "input_data",
+      "stack_trace"
+    ]
+  },
+  
+  "circuit_breaker": {
+    "enabled": true,
+    "failure_threshold": 5,
+    "reset_timeout_seconds": 300,
+    "half_open_requests": 1
+  },
+  
+  "fallback_strategies": {
+    "ai_generation_failure": {
+      "strategy": "use_cached",
+      "cache_duration_hours": 168,
+      "notify": true
+    },
+    "file_write_failure": {
+      "strategy": "write_to_temp",
+      "temp_directory": "/tmp/riley-content-backup",
+      "notify": true
+    },
+    "notification_failure": {
+      "strategy": "log_only",
+      "notify": false
+    }
+  }
+}
+

@@ -1,0 +1,1834 @@
+“Business”
+#daily #business
+
+Take notes here:
+Gemini 3.0 is inside Orchids. Orchids = Lovable but with backend vibe coding as
+well (actually creates the APP, not just the user interface)
+https://youtu.be/og7R9C_N3Zg?si=0tv-oYcNjgcFFR0e
+Can vibe code crazy interactive website for “auditing your offer” - Ogilvy style,
+almost like a choose your own adventure storyboard game
+https://www.awwwards.com/sites/de-bijenkorf-magical-forest
+You don’t actually sell outcomes. You sell the mechanism. And if the mechanism is
+so good, then the prospect sells themselves on the outcome. I’m not selling clarity
+on your offer. I’m selling I will audit your sales calls, find the exact language your
+customers use, compare it to the messaging you’re currently using, and show you
+where the misalignment is. The natural conclusion to that = clarity on your offer.
+Have Claude Code build out full workflow for offer audit (existing offer)
+Make new Claude account for credits
+
+Make sure to get community -> quiz -> DFY funnel dialled, so as we
+start promoing this workshop and blowing up the timeline, I’m
+consistently filling that funnel pipeline.
+This week = fufilling the offers (proof of concept)
+Next week = getting momentum back on Twitter, in the community,
+Ogilvy ads, BACK to being NOISY
+Week after = relaunch, consistent scale, momentum, feedback
+loops
+Justify high ticket with 2 customers. If your service is $6k, I charge $12k setup fee
+Alen framework: "It only costs you x clients and rest after that you keep 100% of"
+SaaS idea = these constant feedback loops of reiteration. Imagine a software that
+continually read your call transcripts and compared it against your landing page
+copy, ad scripts, VSL, etc
+**Imagine this + Hyros Air style apps I was talking about a few months ago. AI
+
+personalization BASED ON your CLOSED CALLS. NEVER have an objection in your
+business again
+Think of the methodolgy behind Jeremy Hayne’s backend selling systems, and
+Jeremy Moser’s content funnel. Imagine it was AUTOMATED
+You’d basically have a 24/7 Offer Audit
+Also think of closer feedback, and how massive of a gap that is (Shaun’s biggest
+hurdle has been Rosie not understanding closer feedback, Birdhouse not getting
+closer feedback etc) so not only does it pre handle all objections by keeping front
+end copy dialled, but it makes setters and closers way more effective and
+increases close rate by CONSTANTLY being aware of common objections
+Imagine this syncing up with an internal AI writing tool (similar to Kleo). You can
+ask it questions, have it write copy, webinar scripts, pre call assets, etc
+Remember Chiron, Dual Response Marketing etc. Still probably tons of angles in
+those archives
+The 2 offers I hated doing the most were the BRRRR one and the trading algo one.
+The 2 offers I liked the most were the Google Ads one and the ecom sourcing one.
+Obviously clear pattern is no more B2C, only B2B (mechanistic copy!)
+Need to find a better way to make it clear it’s only B2B without saying B2B
+(because that just sounds unnattractive and stale)
+HT = agency to info (Collin, Kleo, Agent Integrator, Marcos). It’s what I was doing
+as a growth operator, but for a fee
+It could be super productized - every one honestly ends up the exact same (12
+week sprint, system install, etc) plus I only ever have to worry about B2B (Collin
+vs. Zach, for example) which is the clear pattern between offers I like and don’t
+like
+Honestly skip DFY offer audit, go right to low ticket -> high ticket evaluative call
+booking (Josh Gavin’s model, watch Alen modules on this)
+Use quiz funnel Josh sent me (literally word for word don’t reinvent the wheel, just
+change branding to Ogilvy style)
+Big thing to figure out = if I am doing the high ticket as an offer LAUNCH, all
+of the financially qualified prospects already have an offer and wanted an
+audit. Machina and Joe couldn’t afford it. Collin was the only one who was a
+perfect lead for the HT launch
+“If you’re an agency owner that is looking at these quote unquote coaches or
+course sellers and thinking “damn, I chose the wrong business model,” let me tell
+you a secret that none of those guys will: there is fundamentally no difference
+between you and them except for XYZ”
+“If you’re an agency owner, I bet that within 4 weeks, I can get your business to
+over 90% margins. In fact, in the next 45 seconds, I will show you exactly how I’d
+
+do it
+Let me ask you a question; I know you see these “coaches” or “course sellers”
+sitting on here, making videos basically just like this, talking to the exact same
+customers you’re after. Maybe they’re in the exact same niche as you
+But the difference is, they’re making the same take home monthly profit as you,
+working half as much, with 0 team members, with practically 0 overhead
+And you know what’s funny? When I talk to these agency owners, they always
+dismiss these guys as “scammers” or “grifters”
+And there absolutely are a lot of 19 year old Miami wannabe entrepreneurs
+pretending to be experts selling courses
+But the truth is? There are just as many, if not more, in the agency space
+So what about the legit ones? The ones that are consistently doing over 100k/mo,
+consistently getting killer results, seemingly from this magic business model?
+Here’s the truth:
+These coaches are no different than you
+They just have a better offer
+They’re not pitching “agency services” on sales calls trying to squeeze out $5k/mo
+retainers
+They are simply selling a solution to YOUR prospects problems”
+(Use the pulling a toothache analogy)
+Backfill Twitter posts to LI
+If everyone’s saying 497 is too cheap, I can either:
+a) Increase price
+b) Lower fufilment
+So, I could remove the call and OTO1 to implementation call
+However, if doing HT on backend, I want as many calls on the calendar as possible
+(to sell them)
+Ask Alen GPT what to do
+
+Put together social media strike plan for Dominion Society of Canada
+**The big question to answer is: Why are more right-wing Canadian’s invested in
+American politics than Canadian politics?
+
+Andrew from ClickFunnels loved the $3500 VSL offer idea. Let’s just run that as
+HT to start. that’s a layup upsell honestly (I can already see that being the primary
+open loop, they get the audit and the offer pivot, but I can just TELL they’re
+starving for a bit more COPY and marketing chpos from me. I wonder on the calls
+if they’ll say agh but HOW do I say it?”
+So far, the biggest pattern between all of the WBYO customers (as in, the mistake
+
+they all made) was NOT making the risk:payoff ABUNDANTLY in the customer’s
+favour. Leo’s 10:1 value-risk (video is a few notes under this) is actually the best
+way I’ve heard this articulated, and so I want to shout him out
+Then I can run this to cold traffic. Because it’s LITERALLY NESB. It’s literally the
+“newest” angle POSSIBLE. It’d be like Michael Burry running ads saying the market
+was collapsing in 2008. The hook is literally “the info bubble is going to pop, and
+your business is going to crash”
+
+Gather ALL my resources. ALL notion docs, voice note.
+Notes app. Call recording wth Ponti. Podcast with Volody.
+Dans video. Sam Oven’s video with Harut.
+Write this like an actual thesis paper. Start with the proof
+Actually get Rene Girard’s thesis (theres a great YT video
+on it, some young guy in a suit)
+Has anyone cracked advertorials for b2b info? Maybe some inspo from Agora?
+Could be very interesting experiment for WBYO. Quiz funnel -> Advertorial ->
+Sales Page
+My current TSL is a 6/10 as far as “scientifically a no brainer.” It’s not Kozmin level.
+It’s not what Daniel and Leo were talking about. I need it to be truly undeniable, no
+copy chops (I needed copy chops to sell 497 but I’m talking for a “master vision”
+document like Kozmin’s thesis)
+When I write this, I’ll pin it to my X profile, without a CTA. Just a “my thesis on the
+market in 2026”
+Also probably where I could reentertain the offer of the State Of The Market
+document (co-written)
+https://youtu.be/khh1k5dKg1I?si=nuLMyj9DiQ_U9u8J
+Leo’s “10:1 value-to-risk vs. 5:3” frame is GREAT for WBYO. = no brainer offer. =
+actually having the offer make sense
+I haven’t even talked about the cold traffic angle, and how with rising ad costs,
+rising skepticism etc. your offer NEEDS to be a complete no brainer
+He also talks about “guarantees” and “we’ll get you 20 clients or you don’t pay”
+not working anymore (same thing I’m saying about case studies not working”
+Reach out to Guielrmo re: Whop App Trojan Horse
+Pump the living SHIT out of LinkedIn content for WBYO. Fully automate with AIFC,
+upload Matt Gray course, go for MAX reach and conversions. Keep Twitter as
+authentic brand, use LinkedIn as JUST lead gen
+
+Within 3 days, I have officially made more money from my own offer than I’ve EVER
+made from ANYONE on a rev share
+Ask Nick Fisher AI about workshop
+Community -> quiz funnel (do field guide on this)
+Push traffic to community so you lead with value
+Can run constant lead magnets (instead of how I did it for Agent integrator where
+it’s a new funnel every time, it’s one central hub that keeps getting pushed)
+Lead with micro commitment
+Segment / ascend into community
+Better than quiz funnel (for warm traffic) because you lead with value (like a lead
+magnet)
+Re: Joe’s DM
+VSL disqualifies anyone trying to BUILD an offer and don’t have call recordings etc
+Playing to both messages isn’t good enough
+Run the quiz funnel on the front end, remove “launch” language from this one, and
+build entire new landing page for new / fresh offers
+THEN give THEM a market research course (GPT Deep Research) to run
+beforehand, that they can upload along with the intake form
+You can connect Gumroad to Hypefury to “automate sales” – You can also connect
+API key. Luka YT = generating Whop payment links with API. Maybe there’s some
+crazy grey hat shit there for low ticket?
+For WBYO field guides - just ramble into loom video -> transcribe -> upload to
+AIFC
+Look into Guillermo’s Automations app for internal upsell
+https://x.com/delmo_dev/status/1982924035454578887?s=46
+***Franchise/licensing model for it in the future. Where (when ops are dialed / I
+have a team) I can plug into existing agnecies and improve their clients' offers
+Example – plug into Birdhouse and run audits for all clients. Super easy sales prop
+(you will instantly make more money if you’re on rev shares), plus massive value
+add for the agency for retention and customer satisfaction (since it’ll be framed as
+an outside consultant, it seems like they are doing their clients a huge favour)
+Probbaly overlap with affiliate angle (Andrew) with OfferLabs
+Post on IG stories when I have funnel ascension dialled
+Create Field Guide breaking down my own offer (Live Case Study: How to create a
+
+great offer)
+Just Loom video going through the sales letter, making comments on why it works,
+copywriting techniques
+Justify why you’re selling (Shoutout Julius), mathematical equation logic (Kozmin)
+Break into different parts (part 1 overall strategy, part 2 copywriting, part 3
+technical setup)
+Start clipping (auto) 3-5 min segments from Alchemists Podcast (GREAT branding
+to show my personality, prove my competence etc)
+Once I have the DFY offer live, back end ascension built out, low ticket built
+out and running low spend ads (realistically 1-2 months)…
+My entire job is just going through NHB+, 10xing my marketing abilities, and
+immediately applying what I learn to the offer. Instant feedback loops
+Once I bolt on mass market offers (nomore___)… that’s $100k/mo profit in 12
+months. No bullshit. I know that’s true
+OLG sunset email you have a balance on your account
+I’m getting a lot of people hit me up asking to work. James, and today Machina. I
+don’t have capacity to do partnerships, plus I want to move away from that
+So, look into SooWei info hybrid model. I need to leverage my info skills for my
+OWN OFFER. How can I have a high ticket offer, DFY + coaching, that I can sell at
+scale?
+How can I get everyone in my DMs to pay $4k+? How would I launch an offer for
+myself if I was my own client?
+THATS the unlock. That’s the freedom. That’s the business
+That’s what I’ve been working for 2 years towards
+Then I just run traffic. Imagine cracking cold email for my own info offer??
+
+Run quiz funnel like the one JG sent me for WBYO (instead of just going right to
+sales letter, to increase microcommitments and capture email to retarget
+abandoned carts - AC email templates)
+DFY offer = Order bump style charge (extra $97) if it’s a fresh offer vs. Existing
+offer (we need to send survey vs. Reviewing sales calls)
+Re: WBYO affiliate (100% front end)
+https://x.com/yevrrah/status/1982487601211752692?s=46
+(Not what Andrew is interested in, since he’s low volume high quality, but good to
+understand if I want to bring it to OfferLab / affiliate network)
+(Also would be cracked to take offers, build out LTO (partner with JG?), then
+have people promo them for 100% commission through stopgrifting)
+
+Internal webinar once The Offer Desk is big enouhj
+Combine free 497 audit for 1 week with Typeform quiz (to land live case studies).
+Say I’m demoing for a week. Drop Typeform. Record implementation call (they can
+have their identitiy blurred if they want), try to catch the “this was so helpful dude
+I appreciate it”
+This is MASSIVE https://youtu.be/RKIujF1qt5Y?si=FKV0nvazEYySFqs_
+Huge for WBYO. I can be on the forefront of this
+THIS is the Kozmin, growth consulting model change
++ Deliverable stacking
+This is the best way to re: build an offer based on feedback. In the onboarding
+form, they need to send minimum 10 closed call recordings, and 10 qualified but
+DNC recordings
+Rewatch podcast with Volody towards the end. Re: doing the right thing, the real
+thing, walking away from the bubble
+Crack referral system for WBYO
+Can also do internal affiliate with 100% commission on LTI (that eventually
+becomes stopgrifting)
+Hormozi self licking ice cream cone
+Upsell into HT off the 497 calls. THAT’S why I do the calls. It’s basically a 497
+evaluative call model. Can drop the price when ascension is dialed. Then it’s an
+offer that can scale. Low ticket, evaluative call is 97 OTO1, book into high ticket.
+Boom now it’s cold traffic friendly. Now I’m scaling MY OWN OFFER like I do
+partners. It’s so obvious. Treat myself like if I was a growth operating partner
+Right now I just make sub accounts on my own account on GHL for partnerships.
+What if I’m the onboarding I seamlessly integrated affiliate link. Angle as (I have a
+version of GHL preloaded with a bunch of stuff, use this link so it copies over)
+For WBYO DFY and high ticket - have a way for them to do market research. Even
+maybe make it required before you do the audit. Great position against
+competitors (everyone’s gonna sit here on calls and guess, I want to actually find
+out what your audience wants), plus makes my job 1000x easier, plus gets them
+better results
+High ticket offer = exactly what I offer growth operator partners but for a setup fee
+instead of just performance. I can outsource funnels and tech. See how SooWei
+does it
+
+Agency escape route. Nomirebranddeals but for agencies / service providers.
+Same GHL template setup, but LTO teaching service providers how to launch their
+own coaching / course. SooWei is a good growth operating example of this. So is
+Max Sturdrvant. I think Evan Seech does this. So does Skinner (from OP). Maybe
+Client Ascension too?
+If I’m being 100% honest I actually haven’t gotten good enough results to teach
+anything. I haven’t even made anyone any money. It’s all a facade
+However, that’s because I’ve positioned myself as a client service / partner person.
+If I made money from my own offers, I 100% could teach
+Problem is, if those offers are teaching people, I’m officially a good ol money
+twitter grifter
+That’s the truth. Don’t have an answer, but I cannot deny that. I am being a fraud
+Alen used to talk in NHB about fractional CMO roles his students landed. Maybe
+there’s something there. Similar to working for Fisher. Similar to what Josh told me
+on phone
+See if there’s anything in course I downloaded. It’s basically birdhouse but higher
+leverage. Fisher started at consulting. Imagine making $6k a month consistently
+and learning and meeting people. Need to put my ego aside for it. But realistically
+I’ve still not cracked cashflow have I?
+Crack single optin for WBYO
+Do free offer teardown inside community (post Typeform in community)
+Maybe see how SooWei does the info hybrid for growth operating
+Launch my own high ticket cohort? Basically coaching through what I already do
+for clients. $4k, 6 weeks, Max Sturtevant style. Templates, guides + coaching.
+Offer sprint. By the end of it you’ll be crystal clear on exactly what you’re selling,
+how you’re selling it, where your traffic is coming from, and how to scale. Go up
+market
+From there can pivot to teaching non info people how to rip into
+https://youtu.be/-PYB18XrRMM?si=Pmc4R13SDn4l-5rG
+“How to build an investment bank” = just up market consulting = Kozmin = what
+Isaiah is doing
+Can publish a tradfi guy (like Louis) and run play on info. Merger and scale
+Auto plug with picture - Ogilvy ads minus the body copy
+Internal OTO2?
+So they signup for free lead magnet (to join the community), then get redirected to
+
+OTO1 (similar to Funnel Of The Week), then once they join the community the
+“Start Here” is actually OTO2 ($497 consult)
+Calendarlink.com for adding events to calendars
+James Camp = Nano Flips. Did all the research for M&A offer when I was going to
+work with Luigi
+Can you embed a free whop checkout to somehow “add” people to a community
+with a lead magnet
+Right now you can have them signup through whop, then Zap them to Kit. But
+what if you could technically do the opposite? One “whop opt in” on a GHL landing
+page, adds them to the email list, and then signs them up for the free community
+and redirects into it I
+The reverse of Machinas
+Stopgrifting.com = my own affiliate network (database of good offers) = LEAD
+GEN TO OFFERS IN MY PORTFOLIO
+Josh’s new “bitcoin of publishing” model
+Drop Whop checkout course + GPT through my own Whop
+(Webuildyouroffer.com’s Whop). Instead of dropping through my email list, I can
+keep email list still as lifestyle (IG for example), and just have the Whop act as a
+“business focused list”
+Josh is doing this, also a lot of those Machina Vas “new Whop guys” are doing that
+as well
+Create custom Whop app (like the existing whop checkout app) for this
+Start building free course (and dropping game) around the $497 WeBuildYourOffer
+I’m going to drop eventually!
+This becomes the new home base for everything. Kozmin style letter,
+eventual publishing, etc
+Then create courses (free catalog model) for different funnel stuff I’m using
+(FunnelOfTheWeek newsletter signup LTO redirect, Whop “catalog model,”
+Whop Quiz Funnel (this will blow up on the TL if I can create the first Whop
+quiz funnel as they’re crushing right now), one click upsell GPT (teach the
+Trojan Horse model)
+https://whop.com/machines-lab/welcome-to-the-machines-lab/?
+funnelId=product_adc54bed-81f0-47be-944e-2857536975f2
+This is also great training ground for my “Trojan Horse” whop app method
+This is exactly how my “VSL” should be https://x.com/JoshDaleure/status/
+1900577908458156132
+
+Publish Gakuyen (similar to CineGrams)
+Pedro and I = Ben and Sanjay
+Did it again with marco. Just make that the offer. I should be the go to guy.
+Literally everyone in the space should have paid me $500 to look over their shit
+and just reframe their offer. It’s worth 100x more than what I’m charging. Almost
+like how everyone has worked with the content agency bros
+Eventually I’ll just consult for equity (basically model for Contact, I just get % of
+the sales of their info I spun up for them)
+Make a Youtube video when Birdhouse funnel is fully setup (dupe it and redact
+names). Show checkout integration, seemless onboarding (redirect to sales page
+from newsletter signup), “cohort model” locked course from Playbook setup
+Whop App trojan horse:
+Create static image generator (like all of those “Native ads” cracked feet pictures)
+Embed in any sort of media buying / affiliate / ecom community
+It automatically creates viral content. After a member uses the app, the Whop
+platform allows the app to create a forum post showing their creation ('Before vs
+After
+') and tagging the user who made it. This instantly increases community
+activity and engagement."
+Have a “paid tier” that unlocks “technical specifications” (unlimited uses, no
+watermarks etc) that brings them into a funnel with OTOs (winning static ad
+templates, guides, swipes, etc) -> ascend to either YOUR community (where you
+can do more ascension) or a mid ticket DWY/DFY
+Then you split the revenue with the creator for the premium tier (not really telling
+them you just plan on ascending everyone off the SaaS into info)
+OR included with the Premium Tier are FREE BONUSES (templates) that you
+need to join YOUR COMMUNITY TO ACCESS
+So again: Static Ads GPT (free tier = capped gens, maybe lower models, or
+credit based) -> Premium tier (more credits, better image gen models) PLUS
+a FREE BONUS (30 WINNING static ad templates that you can plug and play,
+plus a step by step guide for how you can just upload your product/brand plus
+the templates and spit out winning ads), in order to claim free bonus you
+need to join Whop community (then either OTO1 VSL page while you get
+“added to the community” or just straight to community and ascend
+internally (catalog model where the course is locked and redirects to sales
+page) plus welcome message that upsells + emails (can eventually have
+setters call all leads)
+Then just hammer organic faceless twitter pages like all these guys have been (+
+TikTok, go greyhat)
+***PEDRO HAS HIS STATIC ADS GPT
+
+^^ Can do this for Birdhouse - create Whop app for viral tweets -> ascend into X
+MBA (or have it limited, then for unlimited they need premium, premium
+subscription page has 30 day content calendar OB -> ascend to X MBA)
+Then just join this new “Whop App Craze”
+Nomoregrifting = Whop affiliate (huge swing on the timeline)
+I think the best INFO offer for ME (to post on X) would be info-ing non info
+businesses (teaching what I did for Kleo, Agent Integrator, etc)
+Whop App = InfoGPT (turns their entire business into an infoproduct) (go down
+Whop App rabbit hole Val etc)
+New application of SPIO sales letter = the ?Michael guy who does the SaaS
+buildouts for companies (We DMd about Nick Koz, I said I loved his branding)
+https://youtu.be/juke0xNrEK4?si=zmwZGlcqFWEjUFat
+^ No more clicking buttons. SELL YOUR SHIT. Start a BUSINESS
+**Nick Kozmin sales letter – JUST WRITE IT and get an UNDERSTANDING of how
+to SELL your thing
++ David Hunter course on SELLING
+Split funnel: $497 offer audit, book call for full buildout
+Leverage IO, Social Alchemy, KillCrew, Damian - just post funnel screenshots
+Quinn Fulmer funnel layout
+Traffic. Sales. Product. That gets you out of literally anything. If I feel lost it’s
+because I’m not doing this
+And if other people are getting in the way of that, I need to do it for myself
+Sell something, drive traffic to it, make it better
+***Find the biggest problem between everyone you’ve worked with, and
+productize a solution for it
+fixyourfunnel.com or yourfunnelsucks.com
+https://infoscalers.io/
+“Your Offer Sucks”
+Launch offer for bringing non info people to info (basically what I was going to do
+for Kleo, or technically for Agent Integrator)
+Ascend to catch & release model (no rev share, big setup fee + 30 days
+consulting)
+“Are you an agency owner that sees people just like you running coaching offers,
+communities or courses and know they’re making 2x the money as you with 90%+
+
+margins and literally 1/10th the effort? They’re making your ARR, but you have 12
+employees and they have 0”
+Affiliate to Whop from quikfunnels/ nomorebranddeals “now how do you accept
+payments? Well we made a deal with Whop just for this”
+Pay someone to build mum ecom store for knitting
+Software without a process is meaningless. CLickFunnels without the perfect
+webinar. GoHighLevel without the agency model. They will just churn. You need to
+attatch a process. The FEO sells a process, the upsells is utility to do the process
+faster (templates, swipes etc. or SOFTWARE)
+Josh Gavin (on Ryan Clogg) = EtsyFlipping = offer I was building (pre built stores)
+AI info consumption software. Voice note to Nick. There’s those 2 guys I follow
+(have DMd) that build SaaS for people. Guy who I blew up (sent me the good cold
+DM) and the guy I said I really liked his branding to
+Make full videos on copy chops. Ex. Alens idea of congruency (if you say how to in
+an ad, the copy on the page needs to start educational. If not, huge drop off.
+Hence “discover” or “see how”)
+He said that when he's promoting big offers, there are so many other affiliates
+promoting through SEO blog spam that it burries any negative reviews etc. If you
+Google the offer, the first 10 results will all be "positive" since they're promoting
+the same offer
+If you're running up an offer on paid (or organic) and want to rank high on Google
+(people search you up), instead of hiring SEO guy to crank out Reddit threads etc,
+why not just bring on affiliates to promote through listicles?
+Literally just upload 50 of the top performing ads in your niche into AFC.
+Everybody pushing scale just plugs copy into templates
+#1 ClickBank offer guy – Info is easy to sell when there’s a software component,
+because it does a lot of the work for them, so the info is framed very DFY.
+“Education” doesn’t sell anymomre
+Maybe angle Machina Whop apps this way? Josh’s biggest offer has the
+“education” as a BONUS – If you don’t have time to watch the videos that’s okay
+the AI tools (GPT wrappers) do it for you
+EPs AI “learning” mechanism
+Hire ops consultant from Fiverr/Upwork to SOP offer launches
+
+DFY offer website layout: https://godly.website/website/roasted-1018
+Hero = before and after slider/GIF of bad offer -> good offer. Make super common
+offer (AI or short form content agency etc), make obvious fully done for you (ex.
+KingKong marketing)
+Make it meta - example of good offer = you reading this right now
+Charge clients for setup fee for tech startup
+Re: Jeremy Moser tweet. Jace England scam. Influx of 100+ “affiliate” pages
+ripping “static ads” this week. “Faceless info offers”
+It’s all bullshit. I’m going to release a free course on EVERYTHING I know about
+scaling info offers and will teach you how to scale somebody’s offer as an affiliate.
+The goal is that if it’s valuable enough, it will clear out guys just trying to make
+$10-20k/mo from “info” by selling fundamentally grifter courses (if you charge
+someone to teach them something that you are not an expert in, you’re scamming.
+So why not just charge them for someone else who is an expert to teach them?)
+It’s going to be the gun buyback program of info. I will reward you to stop selling
+useless info by giving you the tools to sell useful info
+If you are one of these faceless pages selling an AI cloned version of somebody’s
+offer, or selling your own offer you had ChatGPT come up with, or PLR, or you’re in
+these circles of people selling eachothers faceless offer, you will be able to pivot
+towards selling legitimate info that get real results
+I will personally vet offers to affiliate to
+Use my GHL affiliate code
+Have a GHL snapshot with pre build pipelines, automations, and funnels (** MAKE
+SURE I’m not stealing anything)
+I will make it clear I am getting affiliate commissions. I will also make it clear that if
+any strategy I am sharing I learned from someone else, I will give them direct
+credit, and if they wish for it to be removed it will be. I will ensure it comes from
+resources they provided for free as to not canabalize any offer they are selling
+Buying investment bank? Basically just lead gen? Isaiah play?
+https://youtu.be/WuRbTc3NVMo?si=-ncgSeZIrEDOonhB
+https://mediabuyer.com/
+Low ticket ascension with setters calling every single buyer
+Nobody does life insurance pay per call with inbound model. The calls literally
+come to you. We start agents at 100% commission. Adam started with 60k
+working 5 hours a day. most people have to rip calls all day. The model is so much
+more efficient than anything else. Adam knows BOTH buying and selling, so he can
+negotiate with affiliates for way better rates. We can also run side by side and train
+people on the selling side as well
+
+Need to financially model out. But low ticket -> high ticket -> they buy leads Adam
+gets %. I only take 30% of high ticket sales, he keeps everything he makes from
+the leads
+Steal the exact structure from SalesDons (for training agents) and CloserCartel
+Form fills = I can sell that lead to an agent, and I can sell TONS of different stuff to
+a final expense client. Medicare, earn, medications, flowers. Remonetization = $$
+$. Affiliates that own their own data and control their own data. That’s what josh
+snow did, they exxited their PPC ageny for 70m after 3 yearrs. Look at Dan
+Desilva, he runs his own lead gen and runs webinars and runs crazy affilate
+Josh:
+Here's the FASTEST way I launched an offer when I published the interior designer
+(my first offer) #1 - Partnered with someone with a FB group #2 - Went to Etsy and
+found a smaller seller with an info product that wasn't getting much traffic yet #3 Offered them $300-$500 to license/resell their product #4 - Made a short form
+funnel on CF #5 - Ran a 7-day promo to the FB group #6 - Split the profits with the
+group owner #7 - Used the money from the launch to fund ads (we've paid people
+more to license products but this is the cheaper way to get started with a LTO)
+Build the best AI bizop LTO possible. Abuse Reddit SEO hacks https://x.com/
+indexsy/status/1965126923425587621
+Just steal from Whops and Skools (Nick Sarev - his offer is PRINTING and there’s
+no DFY, no quick win, the OUTCOME is promised VERY well but the argument isn’t
+there. Can EASILY make that better and fix framing by making it LTO instead of
+Skool). Just make a fucking killer, professional SaaS looking Framer website that
+disguises LF sales letter (Fyles) and crush everyone
+
+Ecom websites for AI sidehustled / n8n templates (do super clean professional
+website like Luke’s AI Insiders)
+OPSEC course (see my Palantir tweet)
+https://x.com/orsonwbs/status/1936716667947536496?s=46
+PERFECT example of publishing a CREATIVE creator: https://www.instagram.com/
+reel/DO9GNAZj81m/?utm_source=ig_web_copy_link
+
+Clone funnel on lovable -> export to framer to make legit website -> integrate with
+GHL for backend system
+https://x.com/fromzerotomill/status/1970487062630486294?s=46
+https://x.com/jamesebringer/status/1970258387083366756?s=46
+
+Dive back into stealing that one gals material (you downloaded it)
+AI voice testimonials: https://x.com/orsonwbs/status/1951291335736009074?s=46
+https://x.com/orsonwbs/status/1947238173228061012?s=46
+https://x.com/orsonwbs/status/1940831601358758356?s=46
+https://x.com/sonny8s/status/1894333478075842875?s=46
+https://docs.google.com/document/d/
+10MOM3Fe5JrIh3ny_pkZ4AqRenKAMHNGVNafNp6bYp7Q/mobilebasic
+https://x.com/orsonwbs/status/1886267405959143810?s=46
+Just productize the whole damn thing. Low ticket, then offer build, then funnel
+build, then entire conversion infrastructure build (whitelabel GHL). Make the whole
+thing run without active input, without clients. DFY everything knowing I can do it
+better. VA it. I don’t need an agency and I don’t need a growth operator. I can
+setup and release model the entire thing. Then broker on the backend. I don’t want
+to be in slack channels all day managing setters and closers anyways. Look at
+Josh’s model. He builds offer, hires out funnel builder, hires media buyer, ops VA,
+then scales and chills. If I crack LTO ascension acquisition I just do this at scale. I
+don’t need to be sitting in ad accounts or slack channels all day. Just do what I’m
+best at (come up with offer idea, market angle and creative direction)
+Use Luke Alexander AI tools. Literally systemize the entire process with Claude
+Code and AI Flow Chat using all the courses and YouTube videos I have. Turn my
+entire knowledge base (notion, notes, videos, courses) into AI workflows and just
+fucking do it
+Turn Korousch course into flowchat. Josh Gavin perfect offer GPT. Funnel build.
+It’s all there!
+GHL white label play. QuikFunnels. It’s all one ecosystem that just works together.
+All I need to do is actually BUILD it and then SELL it
+Run ads to LTO. Automate UGC. Crack JVs and affiliate. It’s all there. It’s always
+been all there. Just build it and take OWNERSHIP in your success and DOMINION
+in your expertise
+Get out of this headspace of always “having to do work” which = shit you don’t
+even want to do
+Then bolt on to gurus HT backend and basically run front end maximizer play.
+Internal affiliate almost. And use their face for ads and VSL
+Can mix in Kyri’s offer (just milk more rev out of existing clients vs. trying to be
+another lead gen agency)
+There’s gotta be ways to arbitrage case studies and claims. Everyone does this
+already. Maciek etc. Pierre. What if I partner or even hire a funnel builder, run the
+offers offer, and then leverage their case studies? I pay out 10% and get to use
+“we have generated” or “our team has generated xyz results”. What if I partner
+with these 19 year old growth operators who somehow drive all this crazy rev?
+This is why I need to learn paid.
+I could partner with organic growth operators, and then run front end maximizer
+
+play for their entire client roster. They supercharge organic with ads, I don’t need
+to find clients. Just need to figure out % splits
+Nonorecommunities= give me 6 minutes and I’ll show you how to 7x the amount of
+money you collect per customer (LTO + bumps A+ ascension = more than $47/mo
+Skool. Can pitch manually on Skool to validate). All 3 of those offers can ascend to
+webuildyouroffer, and then ascend again to offer publishing (which I can broker).
+Build webuildyouroffer.com and launch with my face. Bolt on LTO (easy cheat
+sheet you can just redo gustens offer pdf) then OTO1 to main DFY offer. “For the
+same price of a decent logo you can 10x your business. Hormozi says a good offer
+increases sales by x%”. DFY = notion doc + implementation call (which will actually
+just be a discovery call for publishing) “I have a team that specializes in XYZ, if
+that’s something you’d be interested in”. ^*** Find Josh’s $1000 consulting call
+gdoc for DFY framed angle
+Lovable/Orchids -> Framer -> GHL. VEO3 VSL + GPT statics ads (Pedro) +
+NanoBanana UGC ads + theme page + OfferLabs affiliate on backend = print. Then
+find expert and build out HTO. Korousch full offer system, Josh perfect offer GPT,
+Gusten templates + AI funnel on Skool. Just start with $50/day on FB make sure
+AOV is over $50. Can start with just fully ripping offers (Orson old doc, plus
+Orchids can clone funnels) steal FB ad script (transcribe then re-record with
+Nano)
+When launching faceless offer, make a UGC theme page. Make it “branded” so it’s
+not someone’s name, but use NanoBanana to do this style of UGC content. Think
+of that goon guy on IG. Great way to build social clout faceless. Tons of
+NanoBanana workflows on X
+“POV: you stopped doing shoutouts for random brands and actually started selling
+your own products (it took me 15min to make)”
+https://x.com/ErnestoSOFTWARE/status/1970200858894762478
+
+AutoDMs for SaaS https://x.com/georgesttock/status/1934289349081772313
+
+Write email launch sequence (for free) for Adil
+Have Coen as a setter for Damian?
+Tracking system:
+Ask Nick and Pedro for advice
+Sanjay YT videos = metrics KPIs to track (from Jeremy)
+https://x.com/evanseech/status/1969082190588707276
+
+Basically want this Airtable setup? https://youtu.be/Pc8BzpvPASc?
+si=TdWpd2q3IyXgKkxt
+Pedro: Typeform <> Supabase (can use Airtable?) <> GHL
+Need attribution data (Hyros? Can use Anytrack?)
+Fiverr = hiring for setup
+Looks like AnyTrack <> G4A is the best option (easiest option)
+Ridiculous money in Roblox and Fortnite. Now Minecraft (1000 person civilization
+vid). Kai Cenat and Speed streams. NotLuc on Twitter. Devin was doing email
+marketing for a Fortnite creator (DestinyJesus) and printed. Snapchat stories (Alex
+Choi, Cam Casey etc). Tons of opportunity for a publishing deal here. Need to tap
+into the GenZ brain rot market. Musa, CrayoAI etc.
+https://www.youtube.com/@sawyervertz/videos
+This guy is working with Poppy AI to bolt on info
+$997 1 time offer buildout. Intake form, then I offer Google Doc + 1hr phone call.
+What I’ve done for Kleo, Nick Trimmer, Create a Community, etc
+I bought webuildyouroffer.com
+Re: all notes down below on Nick Kozmin sales letter etc
+Hormozi model = basically the productized version of what I’d offer as a publisher’
+Use Josh’s angle of “creators just want to CREATE, they didn’t sign up for being
+sales managers or media buyers”
+**There’s overlap here with nomorebranddeals + QuikFunnels
+OR this is just a low ticket version of what I’d offer as a service. Sell an offer map
+(which would be the first step in any project I’d do anyways), then upsell to
+funnels/emails/backend, then upsell to driving traffic
+“Growth operator foot in the door” approach but actually mechanized in the
+business model
+I handle offer creation, then upsell I just broker to Rez/funnel builder, then bring on
+a media buyer/creatives guy to drive traffic, place a VA operator and scale
+The offer creation step can be fully AI with Poppy/FlowChat (think Josh Gavin
+perfect offer GPT)
+Swipe angles from Hormozi’s 100M offers
+Specialized framing like Kyri https://www.backendprofits.io/home
+Can also tailor to non-info native guys (Think: what I’m doing for Damian, Rob etc)
+except for going after existing coaches – THIS can scale heavy into M&A, boring
+business, lawyers, etc
+Plus, since everything’s launch + scale based, they always get massive cash
+injection upfront (massive for retention)
+SPRINT TOWARDS CASE STUDY FROM DAMIAN AND ROB, PUSH REFERRALS.
+You know this is what you’re missing
+Luke Alexandar / Vibe Marketer pro website vibebuild for THE ALCHEMISTS
+
+OPSEC offer
+https://x.com/IAmAlenSultanic/status/1965900264638132484
+https://x.com/lamxnt/status/1963976539181048314
+https://x.com/lamxnt/status/1963986272222867873
+https://x.com/lamxnt/status/1963988245638795357
+
+Knitting offer for mom. Swipe Josh interior design offer. Sell patterns, pre built
+stores, Etsy optimization
+See Pontivflex when in Vancouver
+Airbnb co-listing for Mum - only in summer
+Pay per call x publishing? Find high payout PPC offers, then bolt on a low ticket
+ascension to it, so you both make money PLUS ascend to an affiliate play
+Russell’s Offer Lab = what Korousch was teaching (build faceless front end ->
+affilaite ascend to backend)
+Can easily ascend to high ticket from QuikFunnels
+If Kleo works out, taking the position of bolting on info to SaaS could be a VERY
+unique angle in the market. Think of Kyri and him carving out a section of the
+market that’s underserved in his scope. Russel framing for big software companies
+(pay $1 to add $20 to your valuation). Take equity so you literally boost their equity
+then get a piece of the exit. Isaiah angle where all these guys are rich but still want
+cashflow. Josh is low ticket, Riley is attaching info to software/agency/M&A
+(Isaiah)
+** AND THIS = DUAL RESPONSE MARKETING, AKA CHIRON
+Run LTO as affiliate, give affiliates 100% of the comission on the front end (huge
+incentive) then a % of the backend. If you can really dial in your numbers and
+convince them they’ll get MORE MONEY promoting yours than their own product,
+you win. Big promo every 90 days, then INTEGRATE your product into theirs. Be
+the charger and case that sells alongside the iPhone
+Russell gave 100% commisions to promote his education – he knew a) if he can
+teach people how to make more money with his software, they’ll stick a lot more
+(how many people have used CF for years?) and b) every $1 he makes (ascending
+from info -> SaaS) is $20 of VALUATION. He was literally paying affiliates to add
+valuation to his company (and got offerd $1B)
+A lot of bizop people know that only 10% of their list will buy – they WANT to
+
+promote your product to their non buyer list segment
+“I’m not just asking you to promote me (make sure you give them their stats, make
+sure they know your students are taken care of)” but the little distinction “if it
+makes you more comfortable, we can do a test promo to your NON BUYERS list,
+and you and your team have done EVERYTHING you can to get them to buy, and
+they haven’t bought, which means you’re not able to serve them, AND you haven’t
+been able to recoup your cost that you’ve spent to acquire and retarget them”
+You can’t say “I guarantee I’ll make you $20k in 90 days or your money back” (Non
+compliant), but you CAN say “If we DON’T make you $20k in 90 days I’ll give you
+your money back”
+https://x.com/GT3TV/status/1957925101560836467
+
+Use OPM to buy into already revenue generating businesses, optimize + scale +
+build cashflow engine, use cashflow to pay off loans, bolt on other companies, sell
+in a rollup
+Agent Integrator -> Julius “catalyst” hook from Ryan Clogg vid
+SaaS GTM agency + VEO3 (Beecher) style launch videos. Think Cluely, Waves etc.
+
+Video responses QT to replies -> Similar to how you can on IG/TT
+Offer idea: video editing for growth. You THINK it’s saturated, bute Nate actually
+isn’t that amazing, there’s an AI angle in there, teaching people how to optimize
+they’re YT vids -> ascend to DFY
+If I can crack LTO -> Agency ascension for Birdhouse, I could do it for Rob (and
+others)
+Just get their average order size / LTV + their current CAC if you can, then mess
+around on the financial modeling tool There MIGHT be a way that you could
+TECHNICALLY pitch agencies on acquiring customers for net zero CAC which
+would be insane
+
+Had my first ever purely inbound lead today. Massive door that unlocked in my
+brain. Never going back
+Run affiliate to any email list about CREATORS. Especially creators wanting to
+monetize. I’m sure there’s tons of this
+You could go super low awareness to just content/branding focused “creative”
+types (who are used to brand deals etc) and say “we can build out your coaching
+from scratch so YOU can monetize”, or higher awareness more what Nick Roger’s
+does (list of people who do want to monetize then offer to do it for them for a %)
+QuikFunnels,
+Duration is selling point
+If I told you I’d pull your tooth out in 60 seconds vs 4 weeks
+If I could fix your marriage in 6 weeks vs. 12 months
+Get way more money up front (cash conversion cycle), people are cancelling on 12
+months
+
+My method I will coin = solving for resonance
+Kozmin style outbound + recruiting outbound on 12% performance + DFW -> DFY
+to have infinite scalability on process. Growth consulting with info bolted on to
+make economics work. Then instead of framing as “consulting” (DWY) frame as
+installing sales and acquisition system (DFY)
+You don’t need case studies if you can MODEL THE RESULTS. Kozmin
+dynamic SL = modeling tool = SHOW that you can get granular IN YOUR
+OUTBOUND PROSPECTING
+https://youtu.be/-HHRMvEop30?si=rLp3xieAmu6rTqPh
+
+Once Social Alchemy finally launches, BOOM – theres my case study. It’s MINE I
+don’t need to worry about pitching or gathering testimonials, it’s REAL PROOF that
+I DID and I can FINALLY start putting results behind my name.
+From there, offer publishing is a walk. “I did $x, here’s the full funnel, do you want
+me to do the same for you?”
+If I put 5k into Facebook and made 15k from it… it will be the first time I have REAL
+PROOF IN MY HANDS that my actions lead to MONEY. THAT’S what I’m missing.
+Launch typeform free funnel audit. Pick one. Offer to redo their funnel for free. Say
+I just want to document the process LIVE on YouTube, I won’t drop any sensitive
+information and I CAN redact the name if required
+
+This solves the “no hard proof” problem that has been keeping me stuck for 3
+years
+Use Nick Kozmin’s full outbound process (cold email with demo calls using
+modelling tools) to SHOW JOSH GAVINS MODELING TOOL!
+Example of Kozmin if your sales letter goes viral your acquisition cost is 0 = Hyros.
+It was built with heavy paid traffic yes, but most people I know use it just because
+they know it’s what everyone who makes money uses
+I’ve been blasting about AI and Hyros AIR and personalization etc. AND Kozmin’s
+method for scaling software companies from scratch. Luke Alexander teaching
+how to build these SaaS companies. Michael (twitter DMs) building SaaS for
+clients. Maybe start to build something?
+Finity said to build Resonance.ai in house at Birdhouse. Could tie it all in.
+Justin Lalonde (YT)
+Greg - Leveraged Startup. Start with agency, automate, roll into AI https://x.com/
+startupideaspod/status/1955738313492717934
+https://x.com/gregisenberg/status/1955711093289923037
+This is what Luke Alexander teaches too
+This is literally what all the GHL whitelabellers do
+Do you see how EVERYTHING you’ve been working on is connected?
+LOOK AT THIS, THIS IS IT https://youtu.be/jxUjWO9wb8g
+
+Remember your creator, star. Do you want to be behind the scenes because that’s
+what you WANT or because of fear and scarcity (don’t want to put yourself out
+there because you’re worried about getting outed? Don’t want to cross wires with
+birdhouse?)
+Apprentice.io = IOU. And apprentice is just a CONGLOMERATE of publishing
+companies! Publish 5 creators in each of the 5 pillars and that forms a university.
+Instead of being PE and acquiring, you just own equity and build from scratch.
+You’ll do the same as acquisition.com and Agexa. You’ll be able to learn
+EVERYTHING from Nick Fishers mastermind.
+You get your syllabus for the semester. Nick Holtz teaches health, Volody
+relationships etc. You learn a skill as an APPRENTICE (mutliple business offers,
+you pick your path), Connor et al. teaches you how to build a brand.
+Paid apprenticeship - you pay your tuition, then get PAID to learn the skill
+(businessess teaching benefit from getting cheap labour)
+Everything is just a LTO -> BAC funnel. We build a low ticket offer for Sales Dons,
+keep front end and run traffic, take 50% of backend. Just like universities do paid
+internships with companies. We teach the skills you NEED TO KNOW (social skills)
+before crushing sales. So Social Alchemy JVs to Sales Dons
+
+Instead of doing free offer stack for agencies, just do free funnel audit
+Partner with journalists for publishing deals? Same with partnering with Starter
+Story etc
+Write a dynamic sales letter on my ENTIRE thesis of the future of online
+informational commerce. AI, network effects alen everything moves to paid traffic.
+Write free flowing schizo thesis first, then have ChatGPT fact check for sensibility
+and if everything adds up. LTO ascension and buying customers, showing
+facebook who your buyer is, mimetics, all talking points in 0-1m video (be good
+enough where people are already asking you the world will TELL YOU when it’s
+time to launch a product), publishing model = coaches can’t market, experts only
+ever focus on one thing, if you want to TEACH something you can’t focus on
+SELLING it because it’ll take away from the TEACHING (make a good cause for
+argument on HOW selling directly takes away from how well you can teach, idk
+think of something)
+Combine things from Griff (cause for argument and symbolism) Alen Josh Nick
+Julius etc. Make THE GREATEST sales letter info marketing has ever seen. Make it
+so good Nick Fisher needs to use it. Use his modeling go through his videos and
+Looms and swipe some graphs
+Go through Notion info offer main doc for those angles (people who got convinced
+they need to “build a brand” and now they don’t know how to market it
+Use sunburn offshorebanking sales letter structure
+Build on notion so you can add buttons, graphics, good font etc
+DON’T CTA. Do Kozmin’s strategy, just build buzz and authority until people are
+DMing you how to get help. Remember if you go viral your cost to acquire a
+customer goes to zero
+Get mercenary setter closer. Join offer, run database reactivation in CRM, put that
+money into ad spend launching a LTO cold, start booking and closing calls
+Kozmin - Zero Knowledge consulting. In a market expanding rapidly, you don’t
+have time to know everything since the knowledge base changes so quickly. You
+need to create value without knowing everything. You just need to know more than
+your competitors. You actually don’t need to know anything, you’re developing
+your insights / training your algorithm as you go
+JUST IN TIME KNOWLEDGE = MOMENTUM
+Run ads to a Kozmin style sales letter ON GOOGLE DOCS. If I crack metrics this
+would GO VIRAL on Twitter. I can just find a cracked offer and ask them to affiliate
+to them. Low ticket to liquidate ad spend, ascend them to ANOTHER GOOGLE
+DOC to BAC HT. Swipe Sunburn’s format https://lander.withoffshore.com/
+
+https://youtu.be/-HHRMvEop30?si=lRzf6bwprh5dkFQq
+People can see people on the Google Doc
+Kozmin - Managing Cash With Content
+*For below – Find Nick’s old sales letter template, find AI video studio doing b2b
+videos, write direct response script for them for free to test
+Nick Kozmin dynamic sales letter PMF x Beecher AI video. MASSIVE OPP RN FOR
+ALL THESE NEW LAUNCHES
+https://x.com/YaqoobWork/status/1930248700128886805
+Would be a killer offer to launch, model after Sharky AI agency
+https://x.com/gregisenberg/status/1934248349458157832
+https://x.com/thechangj/status/1953573054443139412
+https://x.com/tbpn/status/1953206767086911507
+MASSIVE tam https://x.com/nowmedia & TBPN
+In fact theres massive opportunity to just be a Growth Consultant for all these
+people and arbitrage AI video
+Msg to Volody re: your favourite teacher in highschool/college ASKED and
+UNDERSTOOD how his students liked to be taught, and applied the curriculum to
+that style. Same for info, especially in this day and age of low consumption /
+activation (Nick term)
+https://x.com/lamxnt/status/1955280993621094506
+AI personalization. This is MASSIVE to crack. Kozmin, Becker with Hyros Air, Josh
+with quiz funnels etc. Big SaaS play but also just big to crack for offers
+resonance.ai – Loom sent to finity
+
+The reason for my 3 year sticking point = learning skills in MMO and not wanting to
+sell coaching to coaches or teaching people trading. I’m having to relearn for clean
+bizops, plus you need real skills for anything outside of MMO treating
+https://youtu.be/X4Csj7ZLZVA?si=IGQBkrWxhfHO6tKY
+Masterclass in writing cold ad copy. Make sure to watch before writing anything for
+SA or QuikFunnels
+Offer to take people off of Skool recurring onto Whop high ticket or low ticket
+ascension (DFY funnel build + affiliate for onboarding to whop)
+Can run as side offer to QuikFunnels
+Can also expand to agencies, home service biz etc (publish niche coaches on the
+
+backend and run QuikFunnels as massive front end affiliate play)
+https://youtu.be/Os1515FQ9jo?si=y_XDAyUjLDKx2neU
+
+Brother it’s just more volume. If you sent 10x more emails and tried 10x more even
+$500 projects you’d get to where you want to go 10x quicker
+I started with faceless funnels from Krush as a way for me to step into running my
+own offers and getting out of freelancer hell that was my kind of original plan and
+then I realize that faceless offers don’t really work because they’re really difficult
+to sell and that’s when I moved to Josh‘s program and now I’m realizing that I can
+have the best of both worlds where I can launch Offers that I think would crush
+with faceless funnels and then install a creator into them with offer publishing
+Instead of giving away products for QuikFunnels swipe GPT from that guy on IG to
+“extract” the product from them
+Last 10 min of this pod = Nick looking for growth strategists to work on his offers
+with budget and infrastructure: https://youtu.be/Mv7TYOXEAB0?
+si=xySPN8fPsWEz_LHR
+
+I don’t know anything about this SPinner. The tradeoff is do you want to go all in, if
+it blows up it blows up. Or, if I was able to do work with spinner SEPERATE from
+Birdhouse, without touching any of the birdhouse clients, so I can actually spend
+the time to VERIFY him, whether we work well, or whether he’s just the first guy. I
+never know whos watching. I’d be stepping on marcos’ toes if I can’t deliver, and
+I’m currently trusting someone I don’t know with MY reputation. Don’t just jump on
+the thing, he gave me a soft know don’t give him the opportunity to give me a hard
+no. At my age reputation is SUPER important not to tarnishl.
+Medspa publishing offer
+Permanent jewelry offer
+Lash tech offer
+Take Shelby Sapp girlboss masterminds angle. Super low barrier to entry post
+graduate students looking to start a business. Can take a lot of info from Thomas
+Gonnett. Business in a box they don’t want to have to setup a website etc they just
+want to post tiktoks
+Swipe Josh’s interior design funnel for inspo on design and framing
+Social alchemy LP = Gusten dark master course funnel + youtube backdrops
+course
+Get rid of traffic angle on quikfunnels. Make it less bizop more ecomwebsites
+
+we’re giving you the funnel. Then go heavy on pushing traffic and turning it into
+full business on upsells / backend. Catalogue model on backend to cover all needs
+Launch QuikFunnels “faceless” to start with Korousch model
+DFY IG Funnel build Justin Saunders model. GHL sub account (Thomas Gonnett
+angle), becuase GHL replaced ManyChat, and same framing as Josh Gavin we’re
+just going for DM CTA setter organic HTO rather than paid traffic LTO. Easy Whop
+affiliate here too. Can run crazy traffic and can install creator face
+ECOMWEBSITES FOR SAAS. Publish one of these fucks from starter story. “If I
+could get to 40k/mo from a braindead simple SaaS you can too” arbitrage
+opportunity just by you watching this ad you are more knowledgeable than 99% of
+the PLANET when it comes to AI (x% tiny percent of the population has used
+chatgpt, even smaller has used an actual SaaS)
+Ecomwebsites for info. See above. PLR 30 digital products run the exact play with
+a super clean funnel and get spokesperson. Either run publishing model and have
+spokesperson with high ticket of just use spokesperson on front end and affiliate
+to bigger play on backend. Buy leads for break even and build list, then figure out
+what to do with them after. Wayback machine ecomwebsites to see if they did it
+faceless
+The Funnel Factory = Ecomwebsites for info. Find someone who builds funnels
+publicly, figure out how ecomwebsites does their fulfilment (I assume templates),
+publish (slap their face on it) and then push to their DFY backend that I take 50%
+of
+Josh’s angle would probably make most sense for this somehow, $97 and stamp
+out. Target existing coaches and upsell to publishing, but could also target very
+low awareness TOF like “get paid to teach whatever you want” and then just
+productize publishing (expert, give them funnel and how-to course, then how to
+promote on organic)
+If you can JV a LTO launch to a list, you’re basically buying some of their
+customers from them for free and adding them to your list
+AI For ADHD - take ADHD Entrepreneur angle and use AI to create systems etc
+https://www.nextlevelsystems.co/
+Just turn all your newsletters into videos. Have Claude shorten it to summaries
+and bullet points. Also have Grok go through all your tweets to find topics
+
+https://youtu.be/yW1Y-Imp2H8?si=pYcuUzR-_uLohSXc&utm_source=MTQxZ
+
+Self licking ice cream cone. How can every customer sell 1-2 more customers?
+Testimonials and social proof, or naturally posting and sharing
+M&A boring business HEAVY on AI angle. Ben Kelly newsletter. Ben Bader and
+Mason this is the easiest time in history NOBODY is using these tools
+Nick looks for BELIEF SHIFTING as the main indication of a guru working. If he says
+“Putting money into a ROTH IRA is a dumbest thing you can do” – We’ve got
+something there. WATCH THE VIDEO to see how he basically frames everything as
+russell’s shift 3 beleifs
+Nick - the one indicator of a successful entrepreneur is delusion, or self beleif. If
+you have conviction, the question is WHEN, not if
+Non buyers Q&A. Every time someone asks a question that you cover in the
+program, say “Thats a great question, we cover this in depth in the program,
+here’s the link to book a call” – run weekly, biweekly etc. to abandoned cart,
+challenge funnel non buyers. Don’t even run slides
+Nick on Ryan – Nick is owning creator led community, consumption, LTV. Iman is
+Quantum, Jeremy is high ticket paid call funnels, Cole Gordon on Eight Figure
+Boardoom, and now Nick on communities. This is massive for what we’re trying to
+do in SA – consumption, community etc. Story based narratives, mimetics, internal
+video essays etc
+Return to tradition ads for The Alchemists. Also Dark Fantasy Minecraft Video
+style. 50s dinner is served, out to work, cigarette ads, long form DR print ads on
+Facebook
+“Funnel builds” for people = also onboarding them onto Whop and earning lifetime
+comission. Can do one time setup fee and get paid referral for life
+When I partner with creator, I can work directly with Joseph to setup SplitIt etc.
+Can frame it as “I have direct partnership with Whop so you’ll get the best access”
+Whop to implement consumption style of AI Frontrunners
+Chris Luno DJ course for publishing! Use that guy who teaches YouTube backdrop
+as funnel inspo. So many angles to run. Jake Antonio style marketing theme pages
+clipping would go crazy. All these UKG guys are blowing up, imagine blowing up
+and the caption is “DM me if you want to learn how to DJ directly from me!”
+Offer publishing for franchieses – Most UpFlip videos affiliate to franchise
+opportunities
+
+Iman – Info funds your own VC/Family office (I think he shares a lot of ways to put
+cashflow into assets in Quantum) https://youtu.be/K4okT1EW50w?
+si=EqdApWLzlpJFRC0T
+
+Josh’s idea is “DWY is actually just DFY” is great frame for consulting. Especially
+Sam ovens model. His LTO calls are super DFY, he literally says he’ll build it the
+whole path for you, but it’s just him yapping and putting things into a calculator. I’d
+love to just do funnel audits on consulting calls. Can be my own DFY offer with a
+simple application funnel tied to my personal brand once I have results with
+publishing. Plus I can ascend up publishing company if anyone I audit is right for
+partnership. 997 Upsell is Ill give you a full report doc with resources after the call
+Huffington post / Entrepreneur earned PR posts with $10/day ad spend to low
+grade retargeting. Get ONE earned placement, retarget $5/day to ONLY journalists
+(this is how Sam got on F30U30). 10,000 list of journalist. Spend time getting to
+know contributor, ask what they want they want to publish, what’s your most
+viewed article, then bring them a client that fits their ideal article. Plus, WRITE the
+article for them, I fancy myself a good writer so you’ll look good in front of your
+boss
+PUBLISHING STARTUP STUDIO FOR ELEARNING! https://www.agexa.com/
+My dream product I wish I published is Cinegrams. Imagine publishing Peter
+McKinnon with something similar? THIS is where my niche autism of knowing all
+these people and industries growing up comes into play!
+Josh = lowticketoffers.com is actually a LEAD GEN FUNNEL for him to broker deals
+to his students. Because as Alen said, all roads lead to lead gen. So many layers,
+THIS is the end goal. Build a brand around helping (ICP) fix problem, AND around
+helping (students) learn how to help (ICP) fix problem, and sell BOTH SIDES. Think
+Whop
+? The Funnel Factory = same offer as Josh, but instead of Low Ticket it’s VSL call
+funnels, DFY funnel build (however he frames the DFY with his low ticket offer, and
+ecom websites etc) ascending to more help and eventually ascending into ME
+BROKERING THE DEAL to a fufilment partner
+No one’s done an Airbnb in the trendy Instagram no big lights ikea mushroom lamp
+style yet
+Griff “infinite money glitch” call – BAC funnel for lawyers / RE agents
+Nick = what I want to be in the Birdhouse eventually. Need to do the math on how
+much BH would benefit from it. But basically I make the offer dialled, redo funnels,
+
+publish LT front end webinars etc Marcos has sales team infra, and he sends me
+deals / I send him deals
+Publish someone in SBA / BK competitor. High price point and older richer
+demographic
+Open ended cold email? “Hey name, just making sure you got this. Let me know,
+thanks”
+Chiron = literally the best business model. Also it already exists if I partner with
+Connor. Say we want to launch a clothing brand. Sunday style. Start with info,
+hyper scale to 50k/mo, self bootstrap the brand into creative team. Can legit
+launch 0-100 full fledged companies in a matter of months
+My autism of KNOWING SOMETHING ABOUT EVERYTHING = publishing. Can
+publish Cam because of car knowledge, CSGO coaching, music production,
+custom PC builds, ANYTHING
+Josh on Ryan - DFY doesn’t exist, it’s DWY framed as DFY. They want you to do
+the thinking for them. Josh isn’t building the funnels on his consulting calls but he
+IS doing the thinking for them. List all the bullets of things you’re going to do FOR
+them, but you’re doing it FOR them through calls
+And so my DREAM, my North Star, is having a publishing company, will a robust
+infastruture in place. My job is basically to be Oprah, I just point at someone and
+BOOM they have $100k/month offer. My ONLY JOB is to identify winners.
+I see Nick Holtz, I See 6 other gut health offers that are making 6 figures a month,
+I go “kid you’re going to be a star!” and plug him into my system and take 35%
+Nick whatever from peptides invests in company
+Treat the game like private equity. You need to create resonance. When you get
+one big client, get in front of all of their network and show them what you did for
+him.
+Becker thinks the future of marketing is a 1-1 custom interaction everytime
+someone visits a site.
+“I think in the future every customer on your website or every customer that
+comes to your website is going to have a 1-1 interaction i think that's the future of
+marketing there's no longer going to be email blast there's no longer going to be
+mass templates sent out um we're not going to have reps contacting people with
+lack of information and we're and we're not going to have a world where people
+come to websites and they just don't have experience that's not custom suited to
+them so where I think the future of marketing going is every single visit to a
+website is going to be a unique experience where the person is reached out to
+
+based on everything about them every message to them is going to be custom fit
+the page is going to be custom fit to them the emails they're going to respond be
+custom fit from and the responses and speed of which they're able to
+communicate and figure out about the business is going to be instant through AI i
+think that's the future of marketing
+
+Whop clippers for Jake Antonio style promo
+If we got 100k of funding we could make a 10/10 fitness offer. Nick, Fitz etc. It’s
+just arbitrage game. We KNOW how to drive traffic, we KNOW what makes a good
+product, we KNOW what is actually good advice and frameworks etc.
+Blakes trading community was almost publishing? He paired expert traders with
+people who wanted to learn and played the arbitrage game. Just paid traders?
+Picture launching The Alchemists like Cluey, like all these GTM startups, but the
+landing page is Avo’s app sales letter format, the ads are direct response, the
+follow up sequence is giga dialled, “Onboarding experts” (setters) dialing as soon
+as you opt in
+Matt Gray “open sources” his team to his group. His head of video teaches a video
+lesson once a week
+https://youtu.be/735Mpvrb84k?si=xtVbW1uf3wgEvk7Blake is getting into Offer Publishing. It is THE business model
+You vs. Me hooks:
+Nobody cares about you, doesn’t know you etc. Open with THE PERSON in mind
+who’s person you’re solving
+DON’T say “I’ve been eating this breakfast for 3 years now and it’s really helped
+me lose weight, here it is”
+DO say “If you’re someone who’s looking to lose weight, there’s a breakfast out
+there that will help you lose weight that you wouldn’t get bored of, and it would
+help you get the results you want” and then can say at the end “I’ve been eating it
+for 3 years”…
+
+Colleges technically have the best recurring revenue model in business. How can
+you reverse engineer and apply to info? Pay yearly, need to at least spend 3 more
+times after you buy to graduate. Why do people pay that much for a not
+guaranteed outcome?
+For best offer being real estate: “Ask anyone one the street and they’ll know real
+estate makes money. Don’t know how, just know it does. So when the face of the
+offer was in prison and went from that to rich in a short time, the barrier for entry
+is super low. If he can do it, i can do it.
+Offer publishing through birdhouse. Josh Gavin fulfilment partners, I broker deal
+THROUGH BIRDHOUSE. Marcos gets 25%, I get 25%, fulfilment gets 10, I do 0
+lead gen because it’s all inbound through birdhouse, can use billion views and
+millions generated as case study proof, I don’t even do backend work. My only job
+is writing front end and architecting backend. They’re getting all the value add of
+Josh’s offer, PLUS a crazy dialed organic engine. Pitch Marcos on basically we’re
+just replacing maciek outsource, and it’s literally 0 extra work for him or the rest of
+the team
+*** PLUS Jeremy & Marcos talked on call about how the small deals always
+actually pay the most, building them from scratch, get invited to their weddings
+etc
+Can collab with Connor on huge publishing deal. Sign celebrity or influencer,
+broker deal to Josh fuffilment team USING Connor’s branding kit. Give to
+birdhouse as client. Insane. You see how THAT becomes the creative studio? It
+becomes dual response marketing. Imagine telling clients “you’re getting (xyz
+results that we can contribute from fulfilment partner) PLUS 1 BILLION organic
+views”. Have Cale prospect and set and close for commission
+Offer idea: Toronto food review influencer girlies transitioning to creatorscreator’s
+corner. Could just affiliate
+OFFER PUBLISHING IS JUST EXTRACTING! Check loom recording. You don’t need
+to make good offers, you just need to EXTRACT them. Polls, chatgpt deep
+research, questions they ask the most
+Offer publishing = network effects Alen talked about. Too many creators trying to
+make a few grand. Everyone’s an influencer. That’s why they’re expendable and
+YOU own the assets, you can just put someone’s face on it
+*** Griff: you don’t need Offer Publishing course. All the info is in inner circle.
+YOU KNOW where the info is. Jump right back in to Ben’s channel and the Inner
+Circle.
+
+Personal landing page. Auto tweet when email goes live (Dan Koe style summary).
+GHL built. Links to work with me, newsletter and birdhouse
+Social Alchemy IS my first offer publishing client. I publish Volody but just start
+from a fresh audience
+Code something to auto feed voice memos into GPT summarized. Combine with
+weekly notes - Sunday summary / clarity
+First draft trending topics AI outline https://x.com/niconley/status/
+1930073358739063117
+The ONLY options are NOT a) paid traffic b) organic content. COLD OUTREACH,
+cold email, affiliate networks, existing relationships. How many businesses are
+there of HUNDREDS OF THOUSANDS of aggregated leads of high performers that
+have never been hit with an offer like this? Newsletters?
+What if you could pre-hire people to bootstap a company? I’d hire a Support/
+Mechanic, on a conditional performance. We do 1-off projects (more growth
+operator easy client projects) and he gets 50% of the deal. ONCE we hit $16k a
+month (and he’s at a fair salary, which is $8k/mo) we PIVOT into the actual
+business (publishing company)
+How to ACTUALLY lead a team (with outcomes, not tasks) https://youtu.be/
+7oSc0AhgBO0?si=W9_dMQ45pIRcmWDJ&t=2319
+Josh Gavin model (ryan clogg video) = IO incubator. Publish creators, stack into +
+ecom + software, BROKER DEALS etc
+Social Alchemy corporate angle. Do networking training for big tech companies. 6
+figure contracts. Sync up with big networking conferences, hit 4-5 companies the
+2 weeks before. Companies are already spending their budget on sending
+employees to events.
+Alchemy. That’s the word. That’s the THING. It’s not lifestyle design, that’s too
+surface level. It’s Alchemy. It came to me in the air and space museum. Davinci
+was an alchemist. He was taking the metaphisical and making it REAL. He was
+smelting raw material into gold. That’s what we’re doing. We are literally smelting
+the world down into it’s liquid form, moudlign it to precious metals.
+Hoffman skoool modules + Harut as lead mags = 5 pillars / IO
+Suitcase UGC Ian to Connor
+
+Facebook wants big cost caps. Launch focus framework with 100 creatives. Figure
+out full funnel price with target roas of 1, funnel added up minus backend. 10
+concepts, 10 variations. Whatever difference in variations make it OBVIOUS, 1a
+and 1b is VERY clear that they are not the same. Different font, different headline
+in different place, different colour. Facebook needs to know they’re different. Start
+with search ads instead of Facebook. Get 100 buyers with search ads, then you
+can UPLOAD those to Facebook. NEVER launch on Facebook. GIVE them the
+audience FIRST
+Can run 5 different targeted ads to the 5 pillars course. Literally 5 offers in one.
+Huge fitness peat esoteric holistic course in ITSELF could be 100k/mo. Can assign
+coaches to each pillar and run it as THE FIRST IO UNIVERSITY. Attract with one
+(say business), sell them on the fact that they can’t have one without the other
+(can’t make money if your health isn’t dialed (peat energy angle), your mindset
+isn’t right (tej CYIW), your routine isn’t locked (cal Newport, dan koe reset your life
+in 7 days) and your relationships are a mess (networking = short cutting you
+shouldn’t work hard you should meet the right people)
+IOU is just a paid version of the 5 pillars. It’s a catalogue model - sell each of the
+pillars as a LTO and then cross sell them to the other pillars.
+“None of this matters if you’re alone. Health wealth mindset is useless if you’re
+doing all the work yourself. You can get twice the results with half the effort if you
+just had a network that supported you. So buy social alchemy =>”
+Volody needs to be a public facing coach for social alchemy. Dating scene
+background, people need to know he’s a top 1% advice giver and that he’s the one
+in the private chats. He also needs a better intro when people join so they know
+why he’s the primary advice giver and not Jake
+The WHO declared a new WORLDWIDE EPIDEMIC targeting GenZ in a spiritual
+warfare they didn’t sign up for. Thankfully, the cure is in their pocket, right now
+Swipe these ADHD SaaS AI startup angles for focus framrwoek
+There’s no locking in. there’s no monk mode. There’s no being a hermit who
+doesn’t leave his room. BE YOU. STOP HOLDING YOURSELF BACK. You can make
+better business decisions in 30 min than most people can in a year. MAKE THEM.
+Run some fucking ads. Scale. Hire. GO. You ARE the wolf of wall street. YOU ARE
+HOLDING YOURSELF BACK. if you woke up tomorrow with ZERO limiting beliefs,
+ZERO self sabatoge… how quickly could you make a million dollars? 3 months? GO
+Testimonial capture from Social Alchemy
+
+THIS is how I want to tweet:https://x.com/shagbark_hick/status/
+1892594419649364132
+“Viral posts” is a numerical mathematical equation. It’s an algorithm, theres no
+LUCK in what posts go viral, its data that twitter ALLOWS YOU TO BUY with an
+API. You can literally ASK TWITTER TO TELL YOU what is going to perform this
+week. Why do we sit on calls and GUESS what works?
+On Friday, I was finishing up the planning for Focus Framework for the week,
+knowing I wouldn’t be working on it over the werkend. I left it off stuck - I knew I
+had to create the actual course, but didn’t know how. I didn’t want to make AI slop,
+but didn’t want to only sell courses on topics I knew. Came back Monday morning,
+within 30 minutes of fucking around on twitter, with AI, uploading Orson tweets to
+Claude, I literally stubbed my toe on PLR courses. The EXACT solution I needed.
+Completely airdropped, and would NOT have happened if I kept “powering
+through” on the weekend. I wouldn’t have altered course to do Orson tweets,
+which lead to PLR, which put me WEEKS ahead with FF
+Low ticket offer @ 1.1x ROAS + Hormozi’s credit card trick (30 day cash conversion
+cycle) = legal money printer?
+Turn my newsletter + Twitter system into an offer? How to grow “digital presence”
+by openly sharing your thoughts out loud, how to make money WHILE solving
+internal issues. Dan Koe audience of one, upsells my personal Claude setup,
+newsletter templates
+Remember —
+Productize as a service. Work with service based businesses to build a client
+acquisition funnel with DIY -> DWY -> DFY services. Think of the advice I was
+giving Connor on “just sell products and courses, and funnel the top 1% INTO your
+actual hands on service delivery” — can frame as lead gen, extra revenue etc.
+Every business could benefit from this — think products like Cinegrams
+Faceless funnels + why you’re scared to launch your own offers. Easy, run it.
+Downloaded Alens AC Rapid Stack. There it is — all the info you could ever need.
+Thousands of $ worth of courses, templates, literally holding your hand to launch,
+run ads, write copy etc. It’s all there. YOU HAVE ALL THE ANSWERS
+Remember — Alen (the GOAT) says NOTHING matters aside from building offers.
+The only way to win is building offers. Why be a copywriter or growth operator for
+someone selling an offer… if you can just build an offer yourself?
+Been echo chambered into b2b. Think of all the kids who just started Ecom /
+
+dropshipping. Stop overcomplicating it. The people you sell b2b to sell b2b - just
+go right to the ACTUAL business
+Luca Netz — marketing first. Everyone has a great idea and a great product,
+doesn’t matter if you’re not driving sales. The hook and the angle is the problem
+you’re solving, your product is the solution, then you work backwards from there.
+“Once you have the problem and the solution, everything else is ChatGPT-able”
+This is why most bizop does dry tests / launches before they’re ready. Huge for
+Chiron
+Create Claude agent for custom samples for outreach. Train it to just copy+paste
+prospects funnel/website into Claude and have it spit out an email/welcome
+sequence etc. Can fully automate with a VA if trained properly - find prospect,
+qualify, reach out, create sample, send
+Build my own offers (Josh Gavin x Koroush x Alen) to launch Chiron off of
+Lutz x Max x Riley - Info pivot. Max interested in running FB ads for other service
+businesses — what if he TEACHES them, runs LT courses -> DWY coaching -> His
+“services” running FB ads = DFY
+Remember - I AM the scarce resource. Imposter syndrome will sneak in when I
+start getting around the tech guys — they’re so many light years ahead of me. But
+they can’t make a kickass story, film it, and make people FEEL like I can. I’m the
+creative. You can’t go to school to be me. You can go to school to code
+Chiron can be anything. There is no ceiling. It can be pure art, pure technology. It
+can be a holding firm, an incubator. It can be anything! And it will be everything,
+because I will lay such an unshakable foundation, with an unbeatable team, that I
+will have the infrastructure to speed run idea -> execution
+My advantage is understanding high profit operations. So, there can be a part of
+Chiron that is revenue FOCUSED. It will be pumping out info product and SaaS
+focused purely on MRR. This will act as a fund for internal operations -> it will
+create a flywheel effect. We will have a fund that WE GROW OURSELVES, we will
+fully bootstrap our “pot” which we will then use to invest as VC, lending our
+services (DRM) as a service.
+Dan NEEDS extremely detailed systems, needs things clearly written out. That’s
+why he’s so SOP focused. If there’s 100 different options for things to do and
+focus on, he won’t pick one. But if it’s detailed out, and there’s only a few levers to
+pull — there you are
+Dan Koe did consulting through Kortex in order to raise capital to build to software.
+This is also common in the tech world, those ML guys on Twitter. Chiron idea
+
+Chiron- guys like Peter kell and Stefan georgi who get so good at marketing/dr/
+affiliate that they start their own brand (supplements, ozempic) because they can
+scale hard with ads. Imagine they took those scammy clickbank brands and made
+them real brands, something they loved and were proud of
+How can I be the Rick Rubin of marketing
+Funnel Factory.
+Faceless funnels / DFY funnel build (original griffin sell upfront) / offer publishing
+Double edged (zack) — you can build the idea of a creative house without clients
+pretty down the line. Get the domain, write the offer, make the instagram page —
+MAKE IT REAL! As you continue to express this idea outward, you’ll find the people
+who want to help. Increase your surface area for luck. DIRECT CREATIVE HOUSE
+15 min funnel breakdowns. Moneys everywhere, that’s NOT the problem. How do
+you get under the water. Get the studio first — putting yourself in the right
+envirnment makes it a LOT lower friction
+WE HAVE THE SCARCE RESOURCE. ITS RARER THAN DIAMONDS, LET ALONE
+MONEY. Theyre printing money, they’re killing creative people
+Serge to Caleb: “I remember bro gave me the most simple, but genius business
+advice ever. I was stuck around 2-3 clients and was struggling w staying
+consistent w outreach, and just wasnt hitting enough volume. He was like “bro just
+hire someone for literally every single thing that annoys you to do.” Basically the
+idea was, even if its a slight inconvenience, despite costing a lil to hire out, its
+worth it if u know urself and think theres even the tiniest chance doing it manually
+will kill ur consistency. Started hiring VAs for every monotonous task and literally
+doubled clients in a month, then grew so fast i had to intentionally slow down lol
+Exactly what i was saying at the time too. Every youtuber/coach was saying “dont
+hire till u scale to a certain level” and he was like nah fuck that, we are business
+owners, we dont need to sit down and send fuckin dms to a million ppl all day.
+Everything monotonous and low lev like that gradually kills ur mindset/energy and
+thats basically the engine that gives u any progress at all”
+Realistically just need to hit 5k/mo for a few months to have capital to hire, and
+outsource all of the obstacles getting in the way. Ez
+Max would RIP as an offer owner… could be an INCREDIBLE first offer to publish
+What if I made my own offer idea (have you been lied to / are you in over your
+head / coach or creator who was sold how “simple’ it would be to coach and now
+
+you have no idea what to do) and made it faceless, outsourced backend and then
+transitioned to agency model on backend when proven?
+Between Growth Operating (Tim free course, Pierre, SeeWoo etc.), Faceless
+Funnels (Koroush) and Offer Publishing Path (Josh & Mark), I’m REALLY close to
+something big. Keep chipping
+T1D = the proof of what I’ve known all along — I can just FIGURE IT OUT and
+actually LEARN once I’m DOING. I’ve learned more in a week of DOING than I did in
+a year of “planning”
+Partner / hire sales guy to pedal these funnels (below).
+They get 10-50% (haven’t decided) of sale price, I keep % backend. I give them
+EVERYTHING they need to sell, decks proposals angles etc. I help them scrape
+leads (saaswiz IG finder? Makretplace?) and they outreach and close. They could
+make 1-2k per sale, once verified I can outsource building funnels and just run a
+factory
+CAN ALSO reach out to sales communities and place an offer
+Spin up super simple landing page with VSL to send leads to (explaining offer)
+ALERT ALERT BEST BREAKTHROUGH OF THE YEAR ⸻
+Selling pre revenue funnels fixes BOTH of my biggest problems:
+Low on cash, and low on HARD tangible case studies and examples
+Korousch Low On Cash FIXES this. No client fufilment, no cold outreach, build and
+flip
+Build a ROCK SOLID portfolio AND get money
+Study prebuilt shopify store offers to mimic
+Korousch Low On Cash -> Flip funnels for $5k PLUS 60 day 10% rev share —
+frame as “I’ll help you get it off the ground and coach you through, and in return I
+get 10% as incentive. The faster I get this off the ground for YOU, the more I get
+paid. Win win”
+Watch Pierre’s vlogs. That’s what you’re getting beat by, because YOURE too
+scared to take action. THOSE GUYS are saying “bet fam” in your dream cars
+Go back to John ADHD. What if I could delegate EVERYTHING getting in my way,
+for a big chunk of the profit, knowing I am super capable of the other side? What if
+I find someone (like Pierre) who is young and starting, but it great at client
+acquisition/ outreach and has hard case studies (or doesn’t, and can just hammer
+acquisition)?
+When Josh drops his offer publishing offer… it’s go time. He’s partnering with Mark
+Lack
+
+Andrew Kirby’s “Synthesizer” model is an amazing long term goal to emulate. He’s
+an offer publisher with a mission statement of “Helping educational creators get
+paid to change the world” — My dream is to have an infastructure setup to where I
+can get paid to find good people and help them make a fuck ton of money. I want
+to point and choose the guys I KNOW have the “it” factor. This is pretty close to it
+Mark Lack — Start a podcast even if you have 0 listeners. Every “guest” will likely
+turn into a referral or an opportunity. Speedrun networking
+Just find Whop creators that don’t have a high ticket and build them a funnel?
+ManyChat the link and say something like “Lmk if that link works”
+Bizop the bizop. Run up publishing agency (Josh Gavin model) then run the model
+as its OWN offer (make money teaching what you love / what you’re good at /
+creators who can’t make any money)
+Personal brand is neccesary, people are dying to hear your unique perspective:
+https://youtu.be/nJUVZbQPNLs?si=k1n8gDo_UEJdaaR6
+Great interview question: what’s one thing you think I’m doing horribly wrong with
+the company that you would change if you were in charge? Shows willingness to
+confront and have hard convos / give feedback, plus business acumen and
+knowledge of industry, plus how much research they’ve done on the company
+The reason you “niche down to one person / ICP” is because the ONLY number
+that exists is 1. 100,000 is 100,000 1s. If you can solve a problem for one person
+(and that person is the average sum of people), theoretically everyone should be
+able to get value from it. Just create a transformation for one person. Then make a
+process for that transformation. Then tell people about the transformation they will
+get in the future if they buy
+Publishing = Pierre Cohort method + Josh Gavin launch + Alen “Why you don’t
+think you can launch offers” -> AC Fast Start. Find someone who’s great at what
+they do and love teaching it, partner 50/50, show them how much money is
+possible (cohort method) then build out an evergreen offer that can scale on cold
+*Master Filmmaker is a GREATTTT example of this
+Try to solve the A+ problem. When you’re at a company, find out — what is the
+ACTUAL big problem they’re having, and how can you help solve it. — What is this
+for Birdhouse?
+While entering this new phase of stability and progress, I should REALLY focus on
+
+improving day over day. The #1 skill I want to be improving is direct response
+writing. Dan Koe 30/30 rule, you suggest it to everyone but dont do it yourself.
+Kyle Milligan’s WHOLE Youtube, Dimensionalization, Alen, Jon Benson NLP etc.
+Market sophistication is going to murder ugly funnels anyways. Will need to pivot
+to framer / webflow, going back to “double edged”
+Just hit up everyone on whop and offer to do high ticket for them?
+There has to be a way to leverage rundown experience with AI. Partnering with
+Rowan still a great angle (old idea of marketing for AI companies) but you know AI
+will be the big play.
+Target SaaS companies with dedicated landing pages to run lead campaigns to /
+send to prospects. Seperate from their main website, not SEO optimized / not
+being crawled by Google, just a very direct outline of what they sell and hyper
+targetting their ICP
+https://docs.google.com/document/d/
+1ndHer7ZSnJgb_euXFsbZMhVKZYumavIbE00
+-_-URodU/edit?usp=sharing
+https://docs.google.com/document/d/
+1ndHer7ZSnJgb_euXFsbZMhVKZYumavIbE00
+Go to where the money is. Don’t work with someone because they “have potential”
+— work with an established figure with a good offer and FIX A BOTTLENECK
+Stop overthinking being a “growth operator” — GET YOUR FOOT IN THE DOOR.
+Offer to fix ONE thing for ONE person, you are skilled enough to identify what’s
+wrong and fix it
+Use Jake as a HARD case study for “growth operating”
+****COHORT METHOD
+What to actaully SELL for a creator??
+Pierre cohort method (only works if creator has good audience) — Launch a hard
+capped HT offer (1-1 access), run IG story -> typeform application, and do PAID
+market research with first 10 people to understand what their audience actually
+wants. High leverage, make creator money ASAP and THEN sell the rest of the
+audience the solution to their main problem, THEN we actually build the course
+Get back aligned. Remember: offer ownership is the play. Not slaving for glorified
+
+bosses as a freelancer. Freedom, ownership, and actually getting paid for your
+skills, not your effort or time. Get back on the Alen train
+Cash back > Discount code. Works better every time
+Make a private newsletter for early access to the next retreat — we already had
+this fully planned out from Maui
+One of the main selling points for any creator = THEIR JORUNEY. When building
+out an offer a key focos should be understanding the clients story — what did he
+go through, how did he solve the problem, how did he hit that end goal (https://
+www.youtube.com/watch?v=8k9bNACUg4I)
+Join CopySquad to learn DR
+For some reason, I was under the impression that if I were to “launch my own
+offer” it would be teaching COPYWRITERS. I have no idea why. The offer is just a
+productized version of my service — I’m teaching MY PROSPECTS, coaches and
+consultants, how to make more money using the methods ID BE DOING if I was
+working 1-1 with them
+Everybody, EVERYBODY just swiped OG DR. So we do the same now. Straight
+swipe Todd Brown for emails etc.
+Everyone trying to growth operate in the same market.
+Amazing example of content from a copywriter. He speaks like a VSL. Hooks,
+preframing, presupposition https://youtu.be/6NHJfJStVK8?si=UAXYZU2iRKWmsfv
+“Growth operating” = DFY, only for high leverage coaches
+For smaller coaches, DON’T DQ them — build out a DWY (Hormozi model, just sell
+them the playbook to do it themselves)
+Pay VAs to scrape IG / YouTube accounts. Give a bonus for every signed client
+https://m.youtube.com/watch?
+v=taeluGBJXSw&pp=ygUQVmFzIGZvciBvdXRyZWFjaA%3D%3D
+https://m.youtube.com/watch?
+v=HowzUGtYAhg&pp=ygUQVmFzIGZvciBvdXRyZWFjaA%3D%3D
+Griffin: The reason I can’t do cold DMs, the reason for the mental block = It
+doesn’t come down to safety. I don’t care about the safety or the comfort of not
+failing (what happens if I sign a client and fail?.. nothing) — It’s a STATUS thing
+I believe that intelligence and status is linked. In that sense, if I prove to myself by
+
+failing for a client that I’m NOT AS INTELLIGENT, KNOWLEDGABLE, CAPABLE AS I
+THINK I AM, that decreases my status in my mind and other people’s mind.
+THAT’S where the anxiety comes from
+There are 2 solutions: dig down to the root, or BANDAID FIX
+I HAVE the knowledge — I have coaches that give me the resources to provide the
+service. THEN, figure out WHY it’s important for me to be percieved that way
+Alens “Who am I not to be worthy?”
+It will take time to go into the mind and be aware of these thoughts
+It’s not about not having these limiting thoughts and negative self talk — they
+don’t go away.
+It’s about BEING AWARE OF THEM and telling them to fuck off
+All I need to reaize: I am where I am (broke, stressed, exhausted BECAUSE I have
+this block, and the only way that I will be able to prove my status to myself and
+others is by going out there and doing it. I have the resources and the capabilities
+**THE ONLY WAY to actually have “status” is shooting loom vidoes and showing
+people I know what I’m talking about
+As much as everyone including myself may hate to admit it, there’s a LOT of AI
+tools out there actually worth it. They’re all 80% of the way there (Peter Kells VSL,
+Stefan Georgis Ads). These + gpt4o + custom ai agents and 2 VAs might be all you
+need
+PETER KRELL HOW TO 6 FIGS VIDEO:
+imagine how little resistance you would have to cold DM someone if you had
+tangible experience doing exactly what you were pitching them on? There was no
+room for what’s ifs, you KNEW it would convert and perform because you’ve done
+it?
+You need to get there. Either by working under someone who does it, or landing a
+client and figuring it out
+Macieks emails have all the intricacies of technical application for info. No more
+missing info as an excuse
+Alen Sultanic re: owning your own offer IS the highest leverage play. Over starting
+an agency, over doing your own content etc. Remember: wathcing his calls had the
+biggest clarity. You took the wealth dynamics test and it was aligned. Stay the
+course, don’t get shiny object synrome. Agency -> Freelance (to get enough
+money) -> pivot to OWNING OFFERS, NOT to starting an agency (remember,
+you’re a creator. You do NOT want 15 mini bosses. You want your own time, own
+schedule, own to-dos. YOU need to own it)
+If you have an offer that you can apply to anyone’s business, it’s going to
+consistently put you in a position that you’re familiar with, help you deliver the
+best results, and get you the best case studies
+
+As a beginner learning anything, the WHY is NOT important. Learning the RULES
+and the WHAT is.
+When you learn something to apply, it’s not important why. What matters is that if
+you apply the concepts, they will work.
+As an intermediate, you learn how all the rules work and why they are.
+As an advanced learner, you learn how to break the rules
+In chess, the reason you learn openings as a beginner is so you don’t have a shit
+position withing the first 5-10 moves. As an intermediate, you continue to study
+openings so you understand the ideas of a position.
+Every single thing I need is in my Notion. 2 years of notes. I am NOT missing ANY
+info on how to front-to-back launch and scale an offer to 100k/month, just missing
+application.
+Book idea. See screenshots. Launch it as a full AC style funnel but with a physical
+book instead of ebook. Can do a legit book launch like Winston but run upsells
+You will be the Noah Ryan of business. Depth of understanding, sharing only what
+you’re genuinely passionate about. Using the ADHD type advantage for
+udnerstanding creatvie and marketing models: https://player.blubrry.com/?
+media_url=https://media.blubrry.com/1471487/content.blubrry.com/1471487/
+E_DU_Noah_Ryan_Episode.mp3&modern=1&podcast_link=https://daniels.du.edu/
+blog/student-to-content-creater-noah-ryan/&display=nw#
+Do a full breakdown on Devin Kearns
+Griffins DM call = searching vs chasing. You can’t physically bring yourself to DM
+because… (watch call)
+You have Devin Noble’s full playbook — NESB / FinPub DR style copywriting (Avo +
+Kyle Milligan), Todd Brown Bullet Campaign (literally 90% of what he offers), and
+the recording to his sales call. RUN IT
+** MAKE A FULL, FINAL, STEP BY STEP EMAIL MARKETING PLAN. THEN, BUILD IT
+OUT IN FULL FOR A MOCK CLIENT.
+THIS will aleviate the pressure. You don’t feel confident for building out a full
+funnel, so start with this. Devin did it without knowing a THING. Build it, pitch it to
+creators on Youtube.
+This also justifies upfront payment vs retainer. Bullet campaigns = set it and forget
+it
+What if to start creative direct response company = high quality artistic funnels.
+Partner with website designers that traditionally work purely based on design.
+
+Work with them to build visually stunning funnels THAT CONVERT for industries /
+clients that would normally never touch direct response. Agencies/ companies pay
+10s of thousands of dollars for these websites without even thinking about how
+well they perform. This way, we don’t have to compete on price or design. We can
+take always good looking websites and replace them with equally as good looking
+sites that WAY OUTPERFORM
+Imagine going to a business. Say they’re an A&R agency. They’re creative at heart.
+But they sell a service. They’re running Facebook ads. They likely have either a
+terrible website all together, or a nice looking website that doesn’t care about
+performance. You can tell because the site isn’t focused around CTAs. They have a
+bhnch of different tabs you can navigate to that don’t have CTAs. Imagine you
+redo their website top to bottom. You identify what their biggest revenue
+opportunity is (say it’s finding upcoming artists to sign on). You create a website
+with conversions in mind. You get a sales team on the backend dialing and taking
+calls. Instantly they’re making way more money and it doesn’t seem scammy
+(clickfunnels type site). Imagine you then identify opportunities to sell products on
+the front end. Guides to landing record deals for clients. Imagine going to a
+massive company and saying you can not only increase their conversions like they
+didn’t even know was possible, but can slash their digital advertising spend by
+80% by liquidating ad costs.
+Straight bizop is a red ocean. High pay but everyone’s doing it. There’s a gap in
+the market. Creative direction jargon bullshit making millions without an actual
+tangible outcome and usually without making any actual money
+Jeremy and Maciek are partners
+Why am I letting people like Jason disrespect me and push me around when I
+LITERALLY know more about his business than he does? Because he’s not scared
+to just start it. I need to stop bowing down to people dumber than me. I need to
+start my own offers on MY terms. Think of how much stress, sleepless nights, how
+much I burn myself out… for other people… to take a FRACTION of the money I
+make them. Fuck that. It was a valuable lesson, but one that I learned and need to
+move past. Unless I am getting paid generously, month over month, I don’t owe
+anyone my life
+Alen literally has a 4-part series on “why you don’t think you can be an offer
+owner”
+Offer idea: become a lash tech
+LAUNCH SOCIAL ALCHEMY LIKE A FULL AC FUNNEL OFFER. It is the perfect test
+subject to become an offer owner. Apply EVERYTHING from Alen to it
+
+Books for bringing on hires: Rocket Fuel, Traction
+AC upsell 1 (rapid launch stack) is step by step how to launch an offer. Its copy
+paste to publish
+Offers is what FEELS right. The glen williamson SMMA felt wrong. Slaving as a
+freelancer felt wrong. Always felt something was missing, it wasn’t big enough, it
+was all a lie. Turns out it was all a lie. All these industries and bizops are used to
+SERVE THE OFFER OWNERS. The creative ones. The people who aren’t smart or
+creative enough to come up with an offer and sell it, are the ones who work
+UNDER the offer owners. This is what feels right.
+Offer publishing is the NECESSARY step. There are now more copywriters than
+offer owners who can afford to pay copywriters. You’re pitching creators to find
+CONSUMERS for their PRODUCT, and taking 50% of the profits
+When buyers become more sophisticated and things “stop working,” it doesn’t
+change the fundementals, it just exposes mistakes and weaknesses in the
+business. The thing that was “working before” had a bunch of mistakes, and it’s
+not working anymore because you haven’t learned to fix the error
+Alen’s “clean bizop” (/ Josh’s “finding creators to publish offers”) = my original
+idea to turn content creators into offers. The “I can just network with people, have
+a cool studio, and make them rich). It’s all the same… https://www.facebook.com/
+groups/nothingheldback/permalink/1425623595504661/
+This game is easy. Companies like Facebook, clickfunnels etc. spend BILLIONS
+creating the platforms that cost us $99
+Don’t Believe Them. How did every succesful person get rich without reading self
+help books or going to Tony Robins seminars? They didn’t believe other people.
+Believing people is just giving them permission to absolve responsibility. Its a
+projection. If you take on everyone’s beliefs, it builds up into a shell you can’t
+escape. Don’t believe them.
+How to launch offer:
+- Join NHB+ for AC template + strategy
+- Use Josh’s method of identifying what offers to sell based on new problems from
+working solutions
+- Find a guru to pay to be face of offer (or partner with guru with audience and use
+Josh MVP Lowticket Launch Strategy)
+- Use FB ads master class from IC
+
+Discord Growth Loophole:
+- This is the exact method Rowan used to grow the newsletter. He had a paid
+product (The University) in the welcome series
+- LTO - how the send cold DMs that ACTUALLY get responses — OTO/Order Bump
+= scripts
+Loom videos for agency application: I love what I do. It doesn’t take me any effort
+to wake up and get to work. It takes me effort NOT to. I love constantly improving
+and am really passionate about my work
+Maybe I can’t bring myself to do outreach because it makes no sense pitching
+people who are clearly stupider than me begging for work to take a small cut of
+their business. The asnwer = launching my own offers
+LISTEN UP. This is what we’re going to do:
+We’re going to pitch people. I know enough to just look at somebodys business
+and identify whats wrong. Anything else is just putting off any risk, such as
+researching mroe.
+I am going to find Youtubers. They are going to be good at making content with a
+terrible offer. Probably a Skool.
+I am then going to absolutely son them into why they’re so much stupider than I
+am. I’ll offer to fix their whole business for $500-$3000 then move along.
+Whether they need a new funnel, new downsell products, new upsell products.
+Consult, get paid and leave.
+Anything else is complete and utter cope.
+Finding success in business is like being handed a Rubix cube and told “solve it”
+Alen Sultanic x Josh Gavin interview is the greatest resource to date. It explains
+everything I’m missing and give a clear path. Hint: launching your own offer IS the
+next step. Josh did it, Griffins doing it. If offer owners are paying freelancers, why
+wouldn’t you just become an offer owner?
+Need to get better at copywriting first (which will only come from actually doing
+work), but it’s the eventual next step
+This is the breakthrough phase. This is the part of the biography where the main
+character makes breakthroughs. Its coming. The rocket ship growth is coming. I
+just need to crack a few more codes.
+Take the Wealth Dynamics test
+YOUTUBERS = “Finding people to publish offers”
+They’re DESPERATE for someone to make them money from an offer because they
+
+have to make so much content in order to get paid
+. My income is going down,
+so i need to make more videos, and I’m getting tired of running on this treadmill
+I now have experience BUILDING a course, implemeneting the delivery (full
+onboarding, accountability etc.), and doing A-Z marketing (funnel, nurture etc) for
+it. SOP AND DUPLICATE
+The money buys happiness networking group = key to get plugged in when I’m
+back in Toronto
+The goal is to get so good at marketing, direct response copywriting, that I will
+always be paid no matter what. It’ll be the catalysyt to get me out of this hole, and
+the prerequsitie to any other endeavors
+Quinn Fulms latest video = my exact long term goal in business. He works with
+Trey, Quinn shoots super creative cinematic videos and Trey builds funnels and
+sales process. Ran the playbook for Alex Eubank.
+The goal is to have an incubator for creators. We’re going to front run the creator
+economy. Something is coming next after every single person sells a course; we’re
+in the Information Age and it’s not going anywhere, but it’s going to evolve.
+I want to have the greatest compound in Toronto. A MASSIVE loft where I sleep,
+eat, and work. I want other desks, podcast studio, creative studio etc. anyone,
+ever is welcome. A place that breeds work. I want a team of the most elite young
+DR sharks, and the best creative minds, and bring them together to make magic.
+Then, I’ll partner with the startup culture in Toronto. We’ll revolutionize the
+industry by bringing direct response marketing to the tech world. Builders, VCs.
+Like Daniel Dalin is doing
+Then, when all is said and done, when I have an infrastructure in place to take
+ANYONE and give them the best funnels, sales tactics, creative direction, DTC,
+EVERYTHING… the biggest needle mover will be what my absolute #1 skill is:
+finding the people who have “it”. We’ll take people with massive potential, put
+them in our incubator, and blow them up. We’ll find bymaximize at 5k followers,
+daddywellness when he was making Zyn memes.
+We’ll have a holding company. Wall Street investors will be able to invest in
+creators like they invest in stocks.
+I will be the pivotal point in the creator economy. In the information revolution. I will
+be the 2008 housing crisis. I will fundamentally change the way people make
+money online. And when the new internet comes, whether AI or something we
+can’t even comprehend, I’ll cash out before people even know we’re in a new era.
+My gift is connections. I can connect with everyone. I can gather resources like no
+one else. I always have the answer to people’s questions. People ask me for
+recommendations daily, life, business, music, everything. I will make generational
+wealth from the gifts only I possess. And in return, I will retire every single person
+
+who ever believed in me.
+The path to this is straight forward: I get very good at marketing, especially direct
+response. The path I have already set down. It is inevitable if I stick with it, in and
+out, and APPLY. Then, I build out a small team, whcih is inevitable, of killers that I
+love working with to take on more work capacity. The transition to offering creative
+solutions is then seamless; if I can guaruntee results on the marketing side of
+things, I can experiement with creative direction at no cost to the client. The worst
+case is they still get great results from the marketing. Then, when workload is at
+its capacity, it will be time to streamline, innovate, expand, and become more
+efficient. Thus, the natural progression into the tech world. We make an AI that
+actually works for this, an actually usable copywriting and short-form video agent.
+It’s own LLM. The rest just scales. The software we create for our own use get’s
+licensed out, and eventually we exit the rights to it. We’ll build things the next
+generations needs, while using them to fuel the mission
+Tej Dosas CYIW has an insanely good sales letter, and basically has the same
+angle as ours: “you need to fix your inner world before you can be successful” vs
+“you need to fix your inner world before you can make friends”
+Do a hopecore takeover for IO. Post 1 hopecore vid / day
+Make 3-5 second reels of 1 video clip and an aesthetic caption - “pov: you made
+it”
+******* THE ORIGINAL OUTREACH METHOD (Grant’s x Maciek) is LITERALLY the
+funnel template Griffin just GAVE US. Go run the play immediately — sell 5 of them
+and make $3k
+Byble:
+- Byble Study — weekly newsletter every Sunday
+- Pull designs from the Book
+- Give lessons etc (can find YouTube sermons to repurpose)
+- Could advertise completely separate from the book. People would just signup
+for a super aesthetically pleasing weekly bible study. Look at the Bible apps daily
+designs
+- Email list = HAMMER your audience when a new book drops
+- All the product shots need to be the books TOGETHER, like you genuinely can’t
+have one without the other
+- Competitors = coffee table book
+Nothing under the sun is new. It’s just 2 old things put together.
+THIS IS THE BIGGEST BREAKTHROUGH I’VE HAD IN BUSINESS EVER.
+This was the missing piece. This is why I can never just “sit down to wrtie” —
+THATS NOT HOW COPYWRITING WORKS. If everyone sat down and tried to
+completely reinvent the wheel every time they went to write a piece of copy, no
+
+one would get anything done.
+A SWIPE file isn’t for studying — it’s for SWIPING. For COPYING the structure.
+Griffin swiped Josh Gavin’s sales letter, who HE swiped from Alen Sultanic
+Avo swiped Agora’s structure
+Make a swipe file, organize it, and EVERY TIME you have a new idea, force it
+through one of those “templates”
+The idea of social media was to bring people closer together, and if anything it has
+just alienated us and created more barriers than any channels in history. IO allows
+you to break through those barriers. Dan said he liked the IO retreats WAY MORE
+than Hustlers University
+From Dan in IC:
+Leverage IO as a value prop — here's why 7 figure/ 1000+ person communities
+trust me with x responsibilities inside of their biz
+++ tell prospects they have the same ‘catalyst’ that allowed you to do x for other
+companies
+Rapper marketing like this: https://x.com/JrMoneyGetting/status/
+1791292710738972858
+Kira etc.
+THE INNER CIRCLE IS ALL I NEED. AHHHHH. STOP OVERTHINKING IT AND RUN
+THE PLAY
+I should be taking way more initiative in the inner circle. I paid for it. It’s the best
+resource in the world for what I do. Griffin hot seat copy, attending calls
+Who says you need to charge retainers? Why not setup fees + 3 month rev share?
+Hunt what you kill. Don’t need to worry about retention. Do what you’re best at. If
+you build them out a high ticket course ($4k), all they need to do is sell 2 spots
+and they’re in the green (if you charge $5k for a funnel buildout etc ). You can do
+the math on the call. It’s a no brainer offer
+“Let’s layout the math here. I’m going to take half of a VERY CONSERVATIVE
+estimate on your FIRST MONTH. You’re still well in the green on month 1, and
+EVERYTHING AFTER THAT is pure profit
+0-8276 (10k a month Canadian) series
+The only chance you stand in this information overload age is having a vehicle
+which you can filter through everything. You will get pulled 100 different directions
+by gurus selling you their method and you will go nowhere. I speak from
+experience. You need the time alone, the clarity, to figure out what you truly want,
+and THEN you can start to consume again through the lense of your project
+
+“You think marketers are unethical pushing make money online courses? Wait till
+you learn how we sell your mom her skincare”
+Make Twitter vid showing the LinkedIn lead gen process. Ask people in different
+industries (programming etc) to DM and workshop a method that works
+I am bad at dissapearing for months at a time. I can find a way to alieviate this with
+more automation. Email list = writing when inspiration hits, but sending out on a
+schedule over the course of a month. Lead gen funnels that push to email list etc.
+Create a better “personal funnel” (maybe get rid of hoo.be? Push all to personal
+list?)
+Bens course + Griffins new funnel (organic transactional relationships) = $$$
+The thing you’re missing is examples. AKA swipe files. Make email folders of
+EXACT examples of what you need (how do you go from free lead mag to paid?
+How do you provide value? How do you write Ecom promo emails?) Plus, have a
+list of funnels that make sense
+Buy max a rehearsal space in Toronto
+You have all the copywriting info you need in your Notion. Genuinely. Not
+theoretically - you have specific information on everything you need to get started.
+You physically can’t learn anymore without DOING
+Dan Koe: Comes up with the idea for a newsletter on Sunday, then throughout the
+week goes on walks and listens to audio books, podcasts, YouTube videos etc.
+THROUGH the lens of the idea for the newsletter. There are ideas in anything that
+will stick out and can be used
+I should be spending way more time researching AI, and headlines
+Get back into the habit of SUMMARIZING. Sunday = reread notes from the week
+(Do this with Twitter bookmarks)
+There’s a big opportunity with that AI Antihero twitter account. Biggest emerging
+space, cool way to stand out. Could hardcore train AI to write all of the threads for
+you (Create RSS feed of top AI news, then have ChatGPT write it in “your style.” 30
+min of work a day)
+If The Rundown doesn’t workout, stack remote jobs. Take a playbook out of
+BeautyOfSaaS etc. and apply to your skills. Remember, we’re applying the risk
+post-income.
+
+Apply data scraping from crypto to Supertools
+https://x.com/lamxnt/status/1723809851845775689?s=46 - Newsletter + video
+editor angle. Leans into natural abilities (I have experience writing newsletters, my
+natural writing style is more “personal brand” than DR, and I have a lot of interest
+and experience in the ICP of digital creators) and mimics a proven formula. Could
+start with just the newsletter angle (different approach to regular info product
+email marketing)
+- Then, how would I apply the 1-person biz model to this? Re: Justin Welsh etc. Is
+there any automations? (Think: training an AI to scrape Youtube / IG / TikTok, pull
+out the best angles, hooks, offers etc and summarize them. So there’s a constant
+flow of angles for email marketing)
+- Then, somewhere there’s a crazy way to tie this into the work I did with Dustin.
+Case studies of taking creators to $x - can apply to large companies that don’t
+have email marketing in place. “Newsletter + Membership Consultant” charge
+F500 companies $$$. Take what Pontivflex does for big companies and apply
+Hunter - “if any crypto companies want to trade custom marketing videos for
+vested tokens, dm me” - could replicate with email (?)
+EVERYONE is buying out of emotion or insecurities
+
+Become the info consultant. Not only writing campaigns - setting up backend
+automations, restructuring offers etc.
+J’s launch will get rid of any anxiety stopping you from doing outreach. Remember
+re: Grant templating outreach angles. Once you have LAUNCHED an offer, written
+emails etc. you have PROOF that you can do it. Skin in the game
+Maciek’s guide has DFY plug and play emails for info product. You could run them
+TODAY and print for the client. There’s your “tactical” learning you were looking
+for
+Been thinking about ways to integrate business into real life (how can what I do
+allow me to be invited to cool creative events in Toronto?) Answer - just get really
+fucking good. Funnel building etc. Ben Bader skill stack. Once you launch J’s
+program, do the Maciek strategy (start doing offer relaunches) think of how well
+you could CRUSH for local creatives. Canoopsy wants to launch a HT program, you
+launch it and make a shit ton of money. You can be the business minded one in the
+creative outlets. THIS IS WHAT CREATIVE INDUSTRIES WAS SUPPOSED TO BE.
+
+Full circle moment. The only thing stopping you is your confidence that you could
+actually crush for them
+Andre call (can’t find enough leads) - update coming for ecom
+Blake Rocha AirBnB: eventually rotate into it. It’s an active business, not a passive
+- get Mum to run it? It’s a hospitality business, not a real estate one. https://
+youtu.be/HoaKNchCYf8?si=CPtg4YCPnCa9jFsn
+Grant method (see tweet re: finding winning video and making lead mag) makes
+the most sense. Instead of wasting time on outreach, every “outreach” is actually
+honing the skill, adding to the portfolio and serving as mock copy for practice. Two
+birds with one stone. Plus, outreach is dead. Better results than cold DM, get over
+#1 thing holding me back (fear of not delivering) and stack $$$.
+Combine with Nick rgrs thread
+Crypto plan (if we start cash flowing):
+Chad DCA into $sol and $coin stock. Stake $sol and mess around with new defi
+protocols (esp. ones launching points / rewards program). Maybe leap $coin calls.
+Keep moon bag to mess around with token of the month, reinvest profits into sol.
+Continue till 2025. Ape $base if it goes. Degen $toshi if capital flows to base. Farm
+$base?
+Steps to kick off bull run:
+- Blackrock ETF approval
+- Positive regulatory framework (leading into elections)
+You’re not doing outreach because there’s a resistance. The resistance comes
+from fear. It’s fear that you’ll sign a client and fuck up. You got a response and
+waited to reply because of FEAR. So, we need to 1: work on leaning into fear (the
+synchronicities have been insane today, Ben’s Tiktok landsharks tweet) and
+understanding that the only way to get over it is to run through it (the only way to
+get rid of a fear is to do the thing you’re fearful of and realize it wasn’t that bad)
+and 2: get the tangible skills and knowledge to boost confidence. Read
+cashvertising (it’s all Mason read to get started), watch Kyle Mulligans series, learn
+LF8 AIDA and PAS.
+Pitch AI automation agency guys
+Fire DMs for freelance clients this week. Don’t pussy out, they want your
+messages. If nothing sticks, start applying to agencies
+Newsletter as a SERVICE?? Think of the Ali Abdaal newsletter you just applied for how many digital creators either don’t have a newsletter at all, or have one that
+
+takes up too much of their time etc? It’s “infoproduct” but not in the traditional
+sense.
+YOU NEED A DAILY SCHEDULE. One thread for Jake. One overview of IO docs.
+One review of notes. Check in with lead gen inbox. No more not knowing what to
+do
+Rewatch Andrew Kirby free group funnel videos. Help Nick isolate inner circles
+offer. We need to do more surveys and interviews
+If I pride myself in my ability to read people, to say exactly what they want to hear,
+to charm the uncharmable - then why aren’t I an expert salesman? Why aren’t I a
+world class marketer? What is the missing link?
+Again, KNOWLEDGEX BOYS ARE GIVING YOU THE PLAYBOOK TO RUN. RUN IT!
+Every time you think “I should hire a VA for this” is an opportunity you could be
+using AI for LFG
+https://youtu.be/87hN0RcYA6s this is a great lead magnet
+KPIs aren’t important. Leads to calls booked rate is the only thing that matters.
+There’s so much nuance in landing clients, if you had way less reply rates but more
+calls booked then that’s all that matters

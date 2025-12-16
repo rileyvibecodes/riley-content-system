@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "last_updated": null,
+  "patterns": {
+    "voice_corrections": {
+      "description": "Patterns from when Riley corrects AI-generated voice",
+      "examples": []
+    },
+    "specificity_upgrades": {
+      "description": "When Riley adds specific numbers/examples",
+      "examples": []
+    },
+    "structure_preferences": {
+      "description": "How Riley restructures content",
+      "examples": []
+    },
+    "tone_adjustments": {
+      "description": "When Riley adjusts tone (harder/softer)",
+      "examples": []
+    },
+    "deletions": {
+      "description": "What Riley consistently removes",
+      "examples": []
+    },
+    "additions": {
+      "description": "What Riley consistently adds",
+      "examples": []
+    }
+  },
+  "rules_learned": []
+}

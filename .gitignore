@@ -1,16 +1,9 @@
-# Dependencies
-node_modules/
-
 # Environment
 .env
-n8n/.env
 *.env.local
 
-# n8n data
-n8n_data/
-
-# Output (optional - uncomment to track)
-# output/
+# Output drafts (keep final versions)
+outputs/weekly/*/drafts/
 
 # OS
 .DS_Store
@@ -18,7 +11,6 @@ Thumbs.db
 
 # Logs
 *.log
-npm-debug.log*
 
 # IDE
 .idea/
@@ -29,3 +21,6 @@ npm-debug.log*
 # Temp
 temp/
 tmp/
+
+# Claude Code conversation cache
+.claude/cache/

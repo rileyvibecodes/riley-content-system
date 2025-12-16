@@ -1,6 +1,6 @@
 # Riley's Content System
 
-Automated weekly content generation system using n8n + Claude. Generates a full week of content from a single topic input.
+Claude Code-native content generation system. Just say "go" and start creating.
 
 ## What It Produces
 
@@ -17,187 +17,131 @@ From one topic idea, the system generates:
 
 ## Quick Start
 
-### 1. Add your Anthropic API key
+1. Open this folder in Claude Code
+2. Say "go" or "let's write content"
+3. Follow the conversation
 
-```bash
-# Edit the .env file
-nano n8n/.env
+That's it. No setup, no commands to remember, no webhooks to trigger.
 
-# Add your key:
-ANTHROPIC_API_KEY=sk-ant-api03-your-actual-key-here
-```
+## How It Works
 
-### 2. Start n8n
+The system uses Claude Code skills to guide the content creation workflow:
 
-```bash
-./scripts/setup-n8n.sh
-```
-
-### 3. Import the workflow
-
-1. Open http://localhost:5678
-2. Create an account (first time only)
-3. Go to **Settings > Credentials**
-4. Add an **Anthropic** credential with your API key
-5. Go to **Workflows > Import**
-6. Import `n8n/workflows/main-content-workflow.json`
-7. **Activate** the workflow (toggle in top-right)
-
-### 4. Generate your first week of content
-
-```bash
-./scripts/generate-content.sh
-```
-
-Or trigger via API:
-
-```bash
-curl -X POST http://localhost:5678/webhook/generate-content \
-  -H "Content-Type: application/json" \
-  -d '{
-    "topics": "How to validate an offer before building",
-    "raw_thoughts": "Most people build first, validate later. Thats backwards."
-  }'
-```
+1. **Topic Discovery** - Discuss what you want to write about
+2. **Research** - Extract angles, examples, and counterintuitive takes
+3. **Field Guide** - Write or polish your main breakdown
+4. **Content Extraction** - Parse the field guide into structured content
+5. **Content Generation** - Generate tweets, threads, LinkedIn posts
+6. **Calendar** - Build your weekly schedule
+7. **Review** - Create approval document
 
 ## Directory Structure
 
 ```
 riley-content-system/
-├── docker-compose.yml      # n8n Docker configuration
-├── scripts/
-│   ├── setup-n8n.sh        # Start n8n
-│   └── generate-content.sh # Generate weekly content
-├── n8n/
-│   ├── .env                # API keys (create from .env.example)
-│   └── workflows/
-│       ├── main-content-workflow.json    # Main 9-node workflow
-│       └── voice-checker-workflow.json   # Voice consistency checker
-├── prompts/
-│   └── voice-guide.md      # Voice characteristics reference
+├── CLAUDE.md               # Project brain (voice, workflow, instructions)
+├── .claude/
+│   └── skills/             # Content creation skills
+│       ├── content-session.md   # Main orchestrator
+│       ├── field-guide.md       # Field guide writing
+│       ├── tweet-generator.md   # Tweet generation
+│       ├── thread-generator.md  # Thread creation
+│       ├── linkedin-posts.md    # LinkedIn content
+│       ├── content-calendar.md  # Weekly scheduling
+│       └── voice-check.md       # Voice consistency
+├── prompts/                # Detailed phase prompts (reference)
+├── config/
+│   ├── voice-profile.json       # Voice characteristics
+│   ├── content-pillars.json     # Content pillar definitions
+│   ├── scheduling-rules.json    # Posting schedule
+│   └── learning-config.json     # Self-learning config
 ├── knowledge-base/
-│   ├── README.md           # Knowledge base instructions
-│   ├── Business.txt        # Your brain dump (replace with yours)
-│   └── swipe-file/
-│       └── best-tweets.md  # Best-performing tweets for voice matching
-└── output/
-    ├── field-guides/       # Generated field guides
-    ├── tweets/             # Generated tweets
-    ├── threads/            # Generated threads
-    ├── linkedin/           # Generated LinkedIn posts
-    └── calendars/          # Generated content calendars
+│   ├── business-brain-dump.txt  # Ideas and philosophy
+│   ├── master-positioning.md    # Brand positioning
+│   ├── swipe-file/              # Best tweets for voice matching
+│   └── previous-field-guides/   # Examples
+└── outputs/
+    └── weekly/                  # Generated content by week
 ```
 
-## Workflow Phases
+## Content Pillars
 
-### Phase 1: Content Planning (Nodes 1-4)
-1. **Topic Selection** - Score and select best topic
-2. **Research & Ideas** - Generate counterintuitive angles, examples, objections
-3. **Field Guide Outline** - Create structured outline
-4. **Field Guide Writer** - Write 1,200-1,500 word breakdown
+Weekly distribution:
 
-### Phase 2: Content Extraction (Node 5)
-5. **Field Guide Parser** - Extract structured data (quotes, arcs, examples)
+- **Offer Mechanics (25%)** - Technical insights about offers
+- **Harsh Marketing Truths (25%)** - Direct, uncomfortable observations
+- **Direct Response Insights (20%)** - Tactical DR content
+- **Personal Observations (15%)** - Personal takes and lessons
+- **AI & Automation (10%)** - AI and systems content
+- **Meta-Marketing (5%)** - Industry commentary
 
-### Phase 3: Content Generation (Nodes 6A-6D) - Parallel
-6A. **Tweet Generator** - 60 tweet ideas across 6 categories
-6B. **Thread Hook Generator** - 7 thread hooks with outlines
-6C. **LinkedIn Post Generator** - 3 professional posts
-6D. **Deep Post Analyzer** - Identify strongest angles and spin-offs
+## Voice Profile
 
-### Phase 4: Prioritization (Node 7)
-7. **Content Prioritizer** - Select top 21 tweets, 1 thread, 2-3 LinkedIn posts
+Riley's voice is:
+- Direct, no-BS, mechanistic
+- Specific over general ("$600" not "a lot of money")
+- Uses concrete examples with numbers
+- Conversational but authoritative
+- Self-aware, occasionally self-deprecating
+- Contrarian when warranted
 
-### Phase 5: Calendar & Review (Nodes 8-9)
-8. **Calendar Generator** - Build 7-day content calendar
-9. **Review Document** - Complete approval document
+See `config/voice-profile.json` for full details.
 
-### Bonus: Voice Checker
-- Scores content on: Specificity, Voice Match, Example Strength, Authenticity
-- Flags content scoring below 7/10 with specific revision suggestions
+## Common Workflows
 
-## Configuration
+### Full Week Content Session
+Just say: "Go" or "Let's create content for the week"
 
-### Required
-- **Anthropic API Key** - Get from https://console.anthropic.com/
+### Write a Field Guide
+Say: "Help me write a field guide about [topic]"
 
-### Optional (for auto-posting)
-- Twitter API credentials
-- LinkedIn access token
-- Notion/Airtable API keys (for storage)
+### Generate Tweets Only
+Say: "Generate tweets from this field guide" and paste/share the guide
 
-## Commands
+### Voice Check
+Say: "Check this content for voice" and share what you want reviewed
 
-```bash
-# Start n8n
-./scripts/setup-n8n.sh
+### Build Calendar
+Say: "Build the content calendar for this week"
 
-# Stop n8n
-docker compose down
+## Outputs
 
-# View logs
-docker compose logs -f
-
-# Generate content (interactive)
-./scripts/generate-content.sh
-
-# Check voice on content
-curl -X POST http://localhost:5678/webhook/check-voice \
-  -H "Content-Type: application/json" \
-  -d '{"content": "Your tweet or content here"}'
-```
+Generated content is saved to `/outputs/weekly/YYYY-MM-DD/`:
+- `field-guide.md` - Main breakdown
+- `tweets.json` - All tweet ideas with scores
+- `thread.md` - Monday thread
+- `linkedin-posts.md` - LinkedIn content
+- `calendar.md` - Weekly schedule
+- `review.md` - Approval document
 
 ## Customization
 
-### Adding to Knowledge Base
-1. Add files to `knowledge-base/`
-2. Update the workflow prompts to reference new files
+### Update Voice
+Edit `config/voice-profile.json` to adjust:
+- Tone markers
+- Sentence patterns
+- Vocabulary preferences
+- Red flags to avoid
 
-### Adjusting Voice
-1. Edit `prompts/voice-guide.md`
-2. Add more examples to `knowledge-base/swipe-file/best-tweets.md`
-3. Update prompts in the n8n workflow
+### Change Content Mix
+Edit `config/content-pillars.json` to adjust:
+- Pillar percentages
+- Topic examples
+- Tweet formats
 
-### Changing Content Mix
-Edit Node 7 (Content Prioritizer) prompt to adjust:
-- Content pillar distribution
-- Tweet category mix
-- Daily posting frequency
-
-## Troubleshooting
-
-### n8n won't start
-```bash
-# Check Docker is running
-docker info
-
-# Check for port conflicts
-lsof -i :5678
-
-# View container logs
-docker compose logs n8n
-```
-
-### Workflow errors
-1. Check n8n execution history for error details
-2. Verify Anthropic credential is set correctly
-3. Check API key has sufficient credits
-
-### Content quality issues
-1. Run the Voice Checker workflow on generated content
-2. Update swipe file with more examples
-3. Adjust temperature settings in workflow nodes
+### Add Knowledge
+Add files to `knowledge-base/` for reference during content creation.
 
 ## Voice Checklist
 
-Before publishing, ensure content:
-- [ ] Uses specific numbers, not vague quantities
-- [ ] Includes real examples with names/details
-- [ ] Sounds conversational, not corporate
-- [ ] Avoids AI-speak ("Let's dive in", "game-changer", etc.)
-- [ ] Has a clear, punchy opening
-- [ ] Ends with insight, not summary
+Before publishing, content must:
+- [ ] Use specific numbers, not vague quantities
+- [ ] Include real examples with details
+- [ ] Sound conversational, not corporate
+- [ ] Avoid AI-speak ("Let's dive in", "game-changer")
+- [ ] Have a clear, punchy opening
+- [ ] End with insight, not summary
 
 ---
 
-Built for Riley's WBYO Content System.
+Built for Riley's WBYO Content System. Powered by Claude Code.

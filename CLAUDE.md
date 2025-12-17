@@ -182,6 +182,9 @@ Reference in `/learning/`:
 - `content-index.json` - All content created (prevents repetition)
 - `edit-log.json` - Full edit history
 - `session-logs/` - Session-by-session logs
+- `winners.json` - High-performing content archive
+- `performance.json` - Performance metrics and analysis
+- `prompt-library.json` - Custom prompts created
 
 ---
 
@@ -241,3 +244,65 @@ Before ending any content session:
 - [ ] Content index updated with new content
 - [ ] Session log saved to `/learning/session-logs/`
 - [ ] Ask Riley if there's anything specific to remember
+
+---
+
+## Automatic Skill Triggers
+
+These skills fire automatically based on context. No commands needed.
+
+### Spin-Off Generator
+**Triggers when Riley says:**
+- "This tweet did well"
+- "This post performed"
+- "Got a lot of engagement on..."
+- "This one blew up"
+- Shares performance metrics for specific content
+
+**What it does:** Analyzes the winning content, extracts why it worked, generates 5 variations using different approaches (format, angle, depth, audience, time).
+
+**Data:** `/learning/winners.json`
+
+### Performance Feedback
+**Triggers when Riley:**
+- Shares analytics or metrics
+- Mentions performance ("this did well", "this flopped")
+- Reviews past content
+- Asks "what's working?"
+- Provides engagement data
+
+**What it does:** Logs performance data, analyzes patterns, identifies what's working/not working, recommends content strategy adjustments.
+
+**Data:** `/learning/performance.json`
+**Reports:** `/outputs/performance-reports/`
+
+### Prompt Builder
+**Triggers when Riley:**
+- Finds content he admires
+- Wants to replicate a style
+- Says "I want to write like this"
+- Shares an example asking "How do I do this?"
+
+**What it does:** Uses Dan Koe's two-step process:
+1. Deconstructs the content (structure, psychology, techniques)
+2. Creates a custom prompt that interviews for context then generates
+
+**Data:** `/learning/prompt-library.json`
+**Custom Prompts:** `/prompts/custom/`
+
+---
+
+## Growth Strategy Integration
+
+The system now supports the full growth loop:
+
+```
+Create → Post → Track Performance → Identify Winners → Create Spin-offs → Repeat
+```
+
+1. **Create content** using learned patterns
+2. **Track performance** when Riley shares metrics
+3. **Identify winners** (high engagement content)
+4. **Generate spin-offs** of winning content
+5. **Learn** what works and feed back into patterns
+6. **Adjust** content strategy based on data
